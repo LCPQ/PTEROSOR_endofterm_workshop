@@ -30,7 +30,7 @@ title = "WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)"
     weight = 1
 
 [[menu.main]]
-    name = "Planning"
+    name = "Program"
     url = "planning"
     weight = 2
 
