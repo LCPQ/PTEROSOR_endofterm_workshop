@@ -6,7 +6,7 @@ draft: false
 
 # MAIN SPONSOR
 
-<img src="img/ERC.png" width="200">
+<img src="/img/ERC.png" width="200">
 
 This workshop has received funding from the [European Research Council (ERC)](https://erc.europa.eu)
 under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481).
@@ -18,7 +18,5 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 | <img width="200" style="vertical-align: middle;" src="/img/CNRS.png" />  | CNRS  |
 | <img width="300" style="vertical-align: middle;" src="/img/LCPQ.png" />  | LCPQ  |
 | <img width="300" style="vertical-align: middle;" src="/img/FERMI.png" /> | FERMI |
-| <img width="300" style="vertical-align: middle;" src="/img/NEXT.jpg" />  | NEXT  |
-| <img width="300" style="vertical-align: middle;" src="/img/NanoX.jpg" /> | NanoX |
 | <img width="300" style="vertical-align: middle;" src="/img/UPS.png" />   | UPS   |
 |                                                                          |       |
