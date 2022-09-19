@@ -1,28 +1,28 @@
-baseURL = "http://localhost:1313/gdr_nbody_2021/"
-#baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
+baseURL = "http://localhost:1313/PTEROSOR_midterm_workshop/"
+#baseURL = "https://pfloos.github.io/PTEROSOR_midterm_workshop/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
+title = "WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)"
 [Params]
-  hometitle = "GDR NBODY GENERAL MEETING 2022"
-  logo="img/CNRS.png"
+  hometitle = "WORKSHOP ON EXCITED-STATE METHODS"
+  logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/500px-Maths1.jpg"
-  desc = "GDR NBODY"
+  desc = "WORKSHOP ON EXCITED-STATE METHODS"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-#  name = "GDR NBODY"
-   email = "gdrnbody@lct.jussieu.fr"
-#  github = "LCPQ"
-   twitter = "GDR_NBODY"
-#   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
+   name = "PTEROSOR"
+   email = "loos@irsamc.ups-tlse.fr"
+   github = "pfloos"
+   twitter = "PTEROSOR"
+   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
 
 [[menu.main]]
     name = "Home"
