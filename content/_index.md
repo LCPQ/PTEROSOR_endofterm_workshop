@@ -15,7 +15,7 @@ Processes related to electronically excited states are central in chemistry, phy
 
 <img src="img/ERC.png" width="200">
 
-This project has received funding from the [European Research Council (ERC)](https://erc.europa.eu)
+This workshop has received funding from the [European Research Council (ERC)](https://erc.europa.eu)
 under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481).
 
 
