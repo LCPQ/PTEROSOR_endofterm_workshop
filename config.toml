@@ -6,7 +6,7 @@ DefaultContentLanguage = "en"
 theme = "beautifulhugo"
 title = "WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)"
 [Params]
-  hometitle = "WORKSHOP ON EXCITED-STATE METHODS"
+  hometitle = "EMERGING EXCITED-STATE METHODS IN ELECTRONIC STRUCTURE"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
