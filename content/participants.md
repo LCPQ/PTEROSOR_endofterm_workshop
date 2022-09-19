@@ -38,14 +38,12 @@ draft: false
 1. Morgane Vacher (U of Nantes, France) <!-- Morgane.Vacher@univ-nantes.fr -->
 
 <!--
-
 Waiting list:
 1. Diptarka Hait (Standford, US) <!-- diptarka@stanford.edu -->
 1. Francesco Evangelista (Emory U, US) <!-- francesco.evangelista@emory.edu -->
 1. Neepa Maitra (Rutgers U, US) <!-- neepa.maitra@rutgers.edu -->
 1. Tim Berkelbach (Columbia, US) <!-- t.berkelbach@columbia.edu -->
 1. Andrea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk -->
-
 Backup list:
 1. James Shee
 1. Paul Johnson
@@ -53,17 +51,17 @@ Backup list:
 1. Shirin Faraji
 1. Stijn De Baerdemacker
 1. Janus Eriksen
-
 -->
 
-# Local organisers
+# Local organisers (U of Toulouse, France)
 
-1. Pierre-Francois Loos	(LCPQ, Toulouse) <!-- loos@irsamc.ups-tlse.fr -->
-1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
-1. Michel Caffarel (LCPQ, Toulouse) <!-- michel.caffarel@gmail.com -->
-1. Fabris Kossoski (LCPQ, Toulouse) <!-- fkossoski@irsamc.ups-tlse.fr -->
-1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
-1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr -->
-1. Yann Damour (LCPQ, Toulouse) <!-- yann.damour@hotmail.fr -->
-1. Antoine Marie (LCPQ, Toulouse) <!-- antoine.marie@ens-lyon.fr -->
+1. Pierre-Francois Loos	<!-- loos@irsamc.ups-tlse.fr -->
+1. Amandine Laurent <!-- amandine.laurent@irsamc.ups-tlse.fr -->
+1. Anthony Scemama <!-- scemama@gmail.com -->
+1. Michel Caffarel <!-- michel.caffarel@gmail.com -->
+1. Fabris Kossoski <!-- fkossoski@irsamc.ups-tlse.fr -->
+1. Raul Quintero <!-- raul.quintero@irsamc.ups-tlse.fr -->
+1. Enzo Monino <!-- enzo.monino@irsamc.ups-tlse.fr -->
+1. Yann Damour <!-- yann.damour@hotmail.fr -->
+1. Antoine Marie <!-- antoine.marie@ens-lyon.fr -->
 
