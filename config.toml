@@ -10,7 +10,7 @@ title = "WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/500px-Maths1.jpg"
+  src = "img/banner.png"
   desc = "WORKSHOP ON EXCITED-STATE METHODS"
 
 [markup]
