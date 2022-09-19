@@ -1,1 +1,1 @@
-![github pages](https://github.com/LCPQ/gdr_nbody_2021.git/workflows/github%20pages/badge.svg)
+![github pages](https://github.com/pfloos/PTEROSOR_midterm_workshop.git/workflows/github%20pages/badge.svg)
