@@ -7,9 +7,6 @@ draft: false
 
 # List of participants
 
-
-
-
 1. Giuseppe Barca (Australian National University, Australia) <!-- giuseppemj.barca@gmail.com -->
 1. Stefano Battaglia (Uppsala U, Sweden) <!-- stefano.battaglia@kemi.uu.se -->
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
@@ -55,8 +52,8 @@ Backup list:
 
 # Local organisers 
 
-The present workshop is organized by members of the [Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=en) (Toulouse, France)
-<br><br>
+The present workshop is organized by members of the [Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=en) (Toulouse, France) as part of the [ERC PTEROSOR](https://lcpq.github.io/PTEROSOR/) project:
+<br>
 1. Pierre-Francois Loos	<!-- loos@irsamc.ups-tlse.fr -->
 1. Amandine Laurent <!-- amandine.laurent@irsamc.ups-tlse.fr -->
 1. Anthony Scemama <!-- scemama@gmail.com -->
