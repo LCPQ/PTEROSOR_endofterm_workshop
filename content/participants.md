@@ -39,11 +39,11 @@ draft: false
 
 <!--
 Waiting list:
-1. Diptarka Hait (Standford, US) <!-- diptarka@stanford.edu -->
-1. Francesco Evangelista (Emory U, US) <!-- francesco.evangelista@emory.edu -->
-1. Neepa Maitra (Rutgers U, US) <!-- neepa.maitra@rutgers.edu -->
-1. Tim Berkelbach (Columbia, US) <!-- t.berkelbach@columbia.edu -->
-1. Andrea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk -->
+1. Diptarka Hait (Standford, US) diptarka@stanford.edu 
+1. Francesco Evangelista (Emory U, US) francesco.evangelista@emory.edu 
+1. Neepa Maitra (Rutgers U, US) neepa.maitra@rutgers.edu 
+1. Tim Berkelbach (Columbia, US) t.berkelbach@columbia.edu 
+1. Andrea Filip (Cambridge, UK) maf63@cam.ac.uk 
 Backup list:
 1. James Shee
 1. Paul Johnson
