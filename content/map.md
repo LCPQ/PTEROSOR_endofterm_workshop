@@ -13,6 +13,6 @@ The conference will be held in the Auditorium of [Le Village](https://www.levill
 <br><br>
 -->
 
-<img src="/img/LeVillage.jpg" width="400">
+<img src="/img/LeVillage.jpg" width="600">
 
 
