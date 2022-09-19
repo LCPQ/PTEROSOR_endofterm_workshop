@@ -14,7 +14,7 @@ draft: false
 1. Stefano Battaglia (Uppsala U, Sweden) <!-- stefano.battaglia@kemi.uu.se -->
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
-1. George Booth TBC (Imperial Colege, UK) <!-- george.booth@kcl.ac.uk -->
+1. George Booth TBC (King's College, UK) <!-- george.booth@kcl.ac.uk -->
 1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
 1. Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
@@ -29,7 +29,7 @@ draft: false
 1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 1. Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
 1. Kasha Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
-1. Lucia Reining (Polytechnique, Palaiseau) <!-- lucia.reining@polytechnique.fr -->
+1. Lucia Reining (Polytechnique, France) <!-- lucia.reining@polytechnique.fr -->
 1. Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
 1. Sandeep Sharma (U Colorado, US) <!-- sandeep.sharma@colorado.edu -->
 1. Alexander Sokolov (Ohio State U, US) <!-- sokolov.8@osu.edu -->
