@@ -53,8 +53,10 @@ Backup list:
 1. Janus Eriksen
 -->
 
-# Local organisers (Laboratoire de Chimie et Physique Quantiques, France)
+# Local organisers 
 
+The present workshop is organized by members of the [Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=en) (Toulouse, France)
+<br><br>
 1. Pierre-Francois Loos	<!-- loos@irsamc.ups-tlse.fr -->
 1. Amandine Laurent <!-- amandine.laurent@irsamc.ups-tlse.fr -->
 1. Anthony Scemama <!-- scemama@gmail.com -->
