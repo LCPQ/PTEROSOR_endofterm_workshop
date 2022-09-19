@@ -53,7 +53,7 @@ Backup list:
 1. Janus Eriksen
 -->
 
-# Local organisers (U of Toulouse, France)
+# Local organisers (Laboratoire de Chimie et Physique Quantiques, France)
 
 1. Pierre-Francois Loos	<!-- loos@irsamc.ups-tlse.fr -->
 1. Amandine Laurent <!-- amandine.laurent@irsamc.ups-tlse.fr -->
