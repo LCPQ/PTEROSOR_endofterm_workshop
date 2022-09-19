@@ -30,39 +30,34 @@ title = "WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)"
     weight = 1
 
 [[menu.main]]
-    name = "Registration"
-    url = "registration"
-    weight = 2
-
-[[menu.main]]
     name = "Planning"
     url = "planning"
-    weight = 3
+    weight = 2
 
  [[menu.main]]
      name="Presentations"
      url = "presentations"
-     weight = 4
+     weight = 3
 
  [[menu.main]]
      name="Posters"
      url = "posters"
-     weight = 5
+     weight = 4
 
 [[menu.main]]
     name = "Location"
     url = "map"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     name = "Participants"
     url = "participants"
-    weight = 7
+    weight = 6
 
 [[menu.main]]
     name = "Sponsors"
     url = "sponsors"
-    weight = 8
+    weight = 7
 
 #[[menu.main]]
 #    parent="external"
