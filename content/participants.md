@@ -11,18 +11,18 @@ draft: false
 1. Stefano Battaglia (Uppsala U, Sweden) <!-- stefano.battaglia@kemi.uu.se -->
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
-1. George Booth TBC (King's College, UK) <!-- george.booth@kcl.ac.uk -->
+1. George Booth (King's College, UK) TBC <!-- george.booth@kcl.ac.uk -->
 1. Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
 1. Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
-1. Tim Gould (Griffith U, Australia) <!-- t.gould@griffith.edu.au -->
+1. Tim Gould (Griffith U, Australia) TBC <!-- t.gould@griffith.edu.au -->
 1. Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
 1. So Hirata (U of Illinois, US) TBC <!-- sohirata@illinois.edu -->
 1. Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
 1. Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->
 1. Thomas Jagau (KU Leuven, Belgium) <!-- thomas.jagau@kuleuven.be -->
-1. Johnoo Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
+1. Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 1. Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 1. Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
