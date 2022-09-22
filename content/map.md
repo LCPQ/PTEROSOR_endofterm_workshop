@@ -18,7 +18,7 @@ The address is [31 Allée Jules Guesde 31000 TOULOUSE](https://goo.gl/maps/eq8eP
 Toulouse is an amazing city with many monuments to visit and food to taste (like cassoulet!).
 For more info, visit [Tourism in Toulouse](https://www.toulouse-visit.com).
 Here is a selection of monuments you do not want to miss.
-Note that there are all within walking distance to the workshop venue:
+Note that there are all within walking distance from the workshop venue:
 * Capitole
 <br>
 <img src="/img/Capitole.jpg" width="600">
