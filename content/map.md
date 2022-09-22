@@ -19,25 +19,33 @@ Toulouse is an amazing city with many things to see.
 For more info, visit [Tourism in Toulouse](https://www.toulouse-visit.com).
 Here is a selection of monuments you do not want to miss:
 * Capitole
+<img src="/img/Capitole.jpg" width="600">
+<br>
 * Basilica of Saint-Sernin
+<img src="/img/Sernin.jpg" width="600">
+<br>
 * Jacobins Convent
+<img src="/img/Jacobins.jpg" width="600">
+<br>
 * Hôtel d'Assézat
+<img src="/img/Assezat.jpg" width="600">
+<br>
 * Canal du Midi
-<img src="/img/Canal.jpg" width="400">
+<img src="/img/Canal.jpg" width="600">
 <br>
 * Jardin des plantes
-<img src="/img/Jardin.jpg" width="400">
+<img src="/img/Jardin.jpg" width="600">
 <br><br>
 
 There are also plenty of sightseeing to do around Toulouse.
 Here is a non-exhaustive list: 
 * [Carcasonne, its castel and its famous cassoulet!](https://www.tourisme-carcassonne.fr/en/)
-<img src="/img/Carcassonne.jpg" width="400">
+<img src="/img/Carcassonne.jpg" width="600">
 <br>
 * [Albi and its cathedral](https://www.albi-tourisme.fr)
-<img src="/img/Albi.jpg" width="400">
+<img src="/img/Albi.jpg" width="600">
 <br>
 * Cathar castels
-<img src="/img/Cathar.jpg" width="400">
+<img src="/img/Cathar.jpg" width="600">
 <br><br>
 
