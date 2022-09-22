@@ -12,6 +12,7 @@ draft: false
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
 1. George Booth TBC (King's College, UK) <!-- george.booth@kcl.ac.uk -->
+1. Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
 1. Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
@@ -40,7 +41,6 @@ Waiting list:
 1. Francesco Evangelista (Emory U, US) francesco.evangelista@emory.edu 
 1. Neepa Maitra (Rutgers U, US) neepa.maitra@rutgers.edu 
 1. Tim Berkelbach (Columbia, US) t.berkelbach@columbia.edu 
-1. Andrea Filip (Cambridge, UK) maf63@cam.ac.uk 
 Backup list:
 1. James Shee
 1. Paul Johnson
