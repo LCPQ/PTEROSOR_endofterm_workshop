@@ -15,9 +15,10 @@ The address is [31 Allée Jules Guesde 31000 TOULOUSE](https://goo.gl/maps/eq8eP
 <img src="/img/LeVillage3.jpg" width="600">
 <br><br>
 
-Toulouse is an amazing city with many things to see.
+Toulouse is an amazing city with many monuments to visit and food to taste (like cassoulet!).
 For more info, visit [Tourism in Toulouse](https://www.toulouse-visit.com).
-Here is a selection of monuments you do not want to miss:
+Here is a selection of monuments you do not want to miss.
+Note that there are all within walking distance to the workshop venue:
 * Capitole
 <br>
 <img src="/img/Capitole.jpg" width="600">
@@ -45,11 +46,11 @@ Here is a selection of monuments you do not want to miss:
 
 There are also plenty of sightseeing to do around Toulouse.
 Here is a non-exhaustive list: 
-* [Carcasonne, its castel and its famous cassoulet!](https://www.tourisme-carcassonne.fr/en/)
+* [Carcasonne, its castel and its famous cassoulet!](https://www.tourisme-carcassonne.fr/en/) (1h by train from Toulouse main station)
 <br>
 <img src="/img/Carcassonne.jpg" width="600">
 <br>
-* [Albi and its cathedral](https://www.albi-tourisme.fr)
+* [Albi and its cathedral](https://www.albi-tourisme.fr)  (1h by train from Toulouse main station)
 <br>
 <img src="/img/Albi.jpg" width="600">
 <br>
