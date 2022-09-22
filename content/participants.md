@@ -29,7 +29,7 @@ draft: false
 1. Kasha Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
 1. Lucia Reining (Polytechnique, France) <!-- lucia.reining@polytechnique.fr -->
 1. Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
-1. Sandeep Sharma (U Colorado, US) <!-- sandeep.sharma@colorado.edu -->
+1. Sandeep Sharma (U of Colorado, US) <!-- sandeep.sharma@colorado.edu -->
 1. Alexander Sokolov (Ohio State U, US) <!-- sokolov.8@osu.edu -->
 1. Alex Thom (Cambridge, UK) <!-- ajwt3@cam.ac.uk -->
 1. Julien Toulouse (Sorbonne U, France) <!-- toulouse@lct.jussieu.fr -->
