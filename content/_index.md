@@ -34,6 +34,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Peter Gill 
 * Tim Gould (TBC)
 * Emmanuel Giner 
+* Diptarka Hait
 * So Hirata (TBC)
 * Joshua Hollett 
 * Denis Jacquemin 
