@@ -48,6 +48,7 @@ Backup list:
 1. Shirin Faraji
 1. Stijn De Baerdemacker
 1. Janus Eriksen
+1. Chenyang Li
 -->
 
 # Local organisers 
