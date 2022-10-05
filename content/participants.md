@@ -28,7 +28,7 @@ draft: false
 1. Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 1. Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
-1. Kasha Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
+1. Kasia Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
 1. Lucia Reining (Polytechnique, France) <!-- lucia.reining@polytechnique.fr -->
 1. Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
 1. Sandeep Sharma (U of Colorado, US) <!-- sandeep.sharma@colorado.edu -->
