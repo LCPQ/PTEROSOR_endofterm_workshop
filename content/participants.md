@@ -9,7 +9,7 @@ draft: false
 
 1. Giuseppe Barca (Australian National University, Australia) <!-- giuseppemj.barca@gmail.com -->
 1. Stefano Battaglia (Uppsala U, Sweden) <!-- stefano.battaglia@kemi.uu.se -->
-1. Timothy Berkelbach (Columbia, US) <!-- t.berkelbach@columbia.edu -->
+1. Timothy Berkelbach (Columbia U, US) <!-- t.berkelbach@columbia.edu -->
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
 1. George Booth (King's College, UK) TBC <!-- george.booth@kcl.ac.uk -->
