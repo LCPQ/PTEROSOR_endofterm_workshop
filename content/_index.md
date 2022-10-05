@@ -24,6 +24,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 
 * Giuseppe Barca 
 * Stefano Battaglia 
+* Timothy Berkelbach
 * Xavier Blase 
 * Katharina Boguslawski 
 * George Booth (TBC)
