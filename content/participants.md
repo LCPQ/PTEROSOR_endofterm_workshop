@@ -37,6 +37,9 @@ draft: false
 1. Julien Toulouse (Sorbonne U, France) <!-- toulouse@lct.jussieu.fr -->
 1. Morgane Vacher (U of Nantes, France) <!-- Morgane.Vacher@univ-nantes.fr -->
 
+1. Abdallah Ammar (U of Toulouse, France) <!-- aammar@irsamc.ups-tlse.fr -->
+1. Filip Cernatic (U of Strasbourg, France) <!-- filip.cernatic@etu.unistra.fr -->
+
 <!--
 Waiting list:
 1. Francesco Evangelista (Emory U, US) francesco.evangelista@emory.edu 
