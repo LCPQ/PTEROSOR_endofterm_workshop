@@ -12,7 +12,7 @@ draft: false
 1. Timothy Berkelbach (Columbia U, US) <!-- t.berkelbach@columbia.edu -->
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
-1. George Booth (King's College, UK) TBC <!-- george.booth@kcl.ac.uk -->
+1. George Booth (King's College, UK) <!-- george.booth@kcl.ac.uk -->
 1. Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
@@ -39,6 +39,7 @@ draft: false
 
 1. Abdallah Ammar (U of Toulouse, France) <!-- aammar@irsamc.ups-tlse.fr -->
 1. Filip Cernatic (U of Strasbourg, France) <!-- filip.cernatic@etu.unistra.fr -->
+1. Florian Matz (KU Leuven, Belgium) <!-- florian.matz@kuleuven.be -->
 
 <!--
 Waiting list:
