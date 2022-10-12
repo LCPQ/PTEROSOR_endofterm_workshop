@@ -25,6 +25,7 @@ draft: false
 1. Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->
 1. Thomas Jagau (KU Leuven, Belgium) <!-- thomas.jagau@kuleuven.be -->
 1. Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
+1. Neepa Maitra (Rutgers U, US) <!-- neepa.maitra@rutgers.edu -->
 1. Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 1. Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
@@ -42,9 +43,6 @@ draft: false
 1. Florian Matz (KU Leuven, Belgium) <!-- florian.matz@kuleuven.be -->
 
 <!--
-Waiting list:
-1. Francesco Evangelista (Emory U, US) francesco.evangelista@emory.edu 
-1. Neepa Maitra (Rutgers U, US) neepa.maitra@rutgers.edu 
 Backup list:
 1. James Shee
 1. Paul Johnson

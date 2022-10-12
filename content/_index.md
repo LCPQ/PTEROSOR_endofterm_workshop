@@ -41,6 +41,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Denis Jacquemin 
 * Thomas Jagau 
 * Joohno Lee 
+* Neepa Maitra
 * Eduard Matito 
 * Nick Mayhall 
 * Eric Neuscamman (TBC)
