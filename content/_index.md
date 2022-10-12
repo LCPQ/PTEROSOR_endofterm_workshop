@@ -28,6 +28,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Xavier Blase 
 * Katharina Boguslawski 
 * George Booth
+* Hugh Burton (TBC)
 * Michel Caffarel 
 * Andreea Filip
 * Claudia Filippi 
