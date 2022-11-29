@@ -7,7 +7,7 @@ draft: false
 
 # List of participants
 
-1. Giuseppe Barca (Australian National University, Australia) <!-- giuseppemj.barca@gmail.com -->
+1. Giuseppe Barca (Australian National University, Australia) <!-- giuseppe.barca@anu.edu.au) -->
 1. Stefano Battaglia (U of Zurich, Switzerland) <!-- stefano.battaglia@chem.uzh.ch -->
 1. Timothy Berkelbach (Columbia U, US) <!-- t.berkelbach@columbia.edu -->
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
