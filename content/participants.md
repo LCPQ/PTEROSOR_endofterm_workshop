@@ -64,6 +64,7 @@ The present workshop is organized by members of the [Laboratoire de Chimie et Ph
 1. Michel Caffarel <!-- michel.caffarel@gmail.com -->
 1. Fabris Kossoski <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. Raul Quintero <!-- raul.quintero@irsamc.ups-tlse.fr -->
+1. Sara Giarrusso <!-- sgiarrusso@ucmerced.edu -->
 1. Enzo Monino <!-- enzo.monino@irsamc.ups-tlse.fr -->
 1. Yann Damour <!-- yann.damour@hotmail.fr -->
 1. Antoine Marie <!-- antoine.marie@ens-lyon.fr -->
