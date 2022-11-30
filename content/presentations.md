@@ -25,7 +25,7 @@ draft: false
 **TBA**
 
 ### Hugh Burton (Oxford, UK) TBC <!-- hugh.burton@chem.ox.ac.uk -->
-**TBA**
+**A fresh perspective on Green's function methods**
 
 ### Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 **TBA**
@@ -67,7 +67,7 @@ draft: false
 **TBA**
 
 ### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
-**How Reliable Are Modern Density Functional Approximations to Simulate Vibrational Spectroscopies?**
+**How reliable are modern density functional approximations to simulate vibrational spectroscopies?**
 
 ### Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 **TBA**
