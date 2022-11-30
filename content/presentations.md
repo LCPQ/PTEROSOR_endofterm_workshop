@@ -88,7 +88,7 @@ draft: false
 **TBA**
 
 ### Alexander Sokolov (Ohio State U, US) <!-- sokolov.8@osu.edu -->
-**TBA**
+**New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra**
 
 ### Alex Thom (Cambridge, UK) <!-- ajwt3@cam.ac.uk -->
 **TBA**
