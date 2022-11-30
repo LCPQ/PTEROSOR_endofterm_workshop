@@ -34,7 +34,7 @@ draft: false
 **TBA**
 
 ### Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
-**TBA**
+**Ensemble density-functional theory of electrons and nuclei**
 
 ### Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
 **TBA**
@@ -52,7 +52,7 @@ draft: false
 **TBA**
 
 ### Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
-**TBA**
+**On the two-electron nature of excited states**
 
 ### Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->
 **TBA**
