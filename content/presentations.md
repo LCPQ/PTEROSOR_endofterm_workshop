@@ -76,7 +76,7 @@ draft: false
 **TBA**
 
 ### Kasia Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
-**TBA**
+**Excited state energy calculation with wavefunction-adiabatic-connection methods**
 
 ### Lucia Reining (Polytechnique, France) <!-- lucia.reining@polytechnique.fr -->
 **TBA**
