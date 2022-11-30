@@ -22,10 +22,10 @@ draft: false
 **TBA**
 
 ### George Booth (King's College, UK) <!-- george.booth@kcl.ac.uk -->
-**TBA**
+**A fresh perspective on Green's function methods**
 
 ### Hugh Burton (Oxford, UK) TBC <!-- hugh.burton@chem.ox.ac.uk -->
-**A fresh perspective on Green's function methods**
+**TBA**
 
 ### Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 **TBA**
