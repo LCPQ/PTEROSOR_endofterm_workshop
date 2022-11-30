@@ -67,7 +67,7 @@ draft: false
 **TBA**
 
 ### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
-**TBA**
+**How Reliable Are Modern Density Functional Approximations to Simulate Vibrational Spectroscopies?**
 
 ### Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 **TBA**
