@@ -43,7 +43,7 @@ draft: false
 **TBA**
 
 ### Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
-**TBA**
+**Transcorrelation made feasible**
 
 ### Diptarka Hait (Standford, US) <!-- diptarka@stanford.edu -->
 **TBA**
