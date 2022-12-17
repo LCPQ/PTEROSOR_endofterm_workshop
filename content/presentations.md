@@ -49,7 +49,7 @@ draft: false
 **TBA**
 
 ### So Hirata (U of Illinois, US) TBC <!-- sohirata@illinois.edu -->
-**TBA**
+**Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe**
 
 ### Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
 **On the two-electron nature of excited states**
