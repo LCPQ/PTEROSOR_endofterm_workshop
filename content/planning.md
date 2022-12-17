@@ -14,27 +14,27 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Chairman |
 |               |                 |
-|  9:30 - 10:00 | Speaker - Title |
-| 10:00 - 10:30 | Speaker - Title |
+|  9:30 - 10:00 | So Hirata - Title |
+| 10:00 - 10:30 | Giuseppe Barca - Title |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Speaker - Title |
-| 11:30 - 12:00 | Speaker - Title |
-| 12:00 - 12:30 | Speaker - Title |
+| 11:00 - 11:30 | Nick Mayhall - Title |
+| 11:30 - 12:00 | Hugh Burton- Title |
+| 12:00 - 12:30 | Joohno Lee - Title |
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
 | **SESSION 2** | Chair: Chairman |
 |               |                 |
-| 14:00 - 14:30 | Speaker - Title |
-| 14:30 - 15.00 | Speaker - Title |
+| 14:00 - 14:30 | Lucia Reining - Title |
+| 14:30 - 15.00 | Timothy Berkelbach - Title |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Speaker - Title |
-| 16:30 - 17.00 | Speaker - Title |
-| 17:00 - 17.30 | Speaker - Title |
+| 16:00 - 16:30 | Pina Romaniello - Title |
+| 16:30 - 17.00 | Xavier Blase - Title |
+| 17:00 - 17.30 | Alexander Sokolov - Title |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |
 |               |                 | 
@@ -48,27 +48,27 @@ draft: false
 |               |                 |
 | **SESSION 3** | Chair: Chairman |
 |               |                 |
-|  9:30 - 10:00 | Speaker - Title |
-| 10:00 - 10:30 | Speaker - Title |
+|  9:30 - 10:00 | Julien Toulouse- Title |
+| 10:00 - 10:30 | Neepa Maitra - Title |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Speaker - Title |
-| 11:30 - 12:00 | Speaker - Title |
-| 12:00 - 12:30 | Speaker - Title |
+| 11:00 - 11:30 | Sandeep Sharma - Title |
+| 11:30 - 12:00 | Stefano Battaglia - Title |
+| 12:00 - 12:30 | Denis Jacquemin - Title |
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
 | **SESSION 4** | Chair: Chairman |
 |               |                 |
-| 14:00 - 14:30 | Speaker - Title |
-| 14:30 - 15.00 | Speaker - Title |
+| 14:00 - 14:30 | Claudia Filippi - Title |
+| 14:30 - 15.00 | Eric Neuscamman - Title |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Speaker - Title |
-| 16:30 - 17.00 | Speaker - Title |
-| 17:00 - 17.30 | Speaker - Title |
+| 16:00 - 16:30 | George Booth - Title |
+| 16:30 - 17.00 | Andreea Filip - Title |
+| 17:00 - 17.30 | Emmanuel Fromager - Title |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |
 |               |                 | 
@@ -84,27 +84,27 @@ draft: false
 |               |                 |
 | **SESSION 5** | Chair: Chairman |
 |               |                 |
-|  9:30 - 10:00 | Speaker - Title |
-| 10:00 - 10:30 | Speaker - Title |
+|  9:30 - 10:00 | Morgane Vacher - Title |
+| 10:00 - 10:30 | Thomas Jagau - Title |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Speaker - Title |
-| 11:30 - 12:00 | Speaker - Title |
-| 12:00 - 12:30 | Speaker - Title |
+| 11:00 - 11:30 | Diptarka Hait - Title |
+| 11:30 - 12:00 | Kasia Pernal - Title |
+| 12:00 - 12:30 | Eduard Matito - Title |
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
 | **SESSION 6** | Chair: Chairman |
 |               |                 |
-| 14:00 - 14:30 | Speaker - Title |
-| 14:30 - 15.00 | Speaker - Title |
+| 14:00 - 14:30 | Katharina Boguslawski - Title |
+| 14:30 - 15.00 | Alex Thom - Title |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Speaker - Title |
-| 16:30 - 17.00 | Speaker - Title |
-| 17:00 - 17.30 | Speaker - Title |
+| 16:00 - 16:30 | Josh Hollett- Title |
+| 16:30 - 17.00 | Tim Gould - Title |
+| 17:00 - 17.30 | Peter Gill- Title |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |
 |               |                 |
