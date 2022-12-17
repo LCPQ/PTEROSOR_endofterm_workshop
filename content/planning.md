@@ -38,6 +38,8 @@ draft: false
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |
 |               |                 | 
+| 19:30 - 22:30 | Dinner!!        | 
+|               |                 | 
 
 # Wednesday, April 5, 2023
     
