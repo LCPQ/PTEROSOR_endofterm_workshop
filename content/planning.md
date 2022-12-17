@@ -14,7 +14,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Chairman |
 |               |                 |
-|  9:30 - 10:00 | So Hirata - Title |
+|  9:30 - 10:00 | So Hirata - Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe |
 | 10:00 - 10:30 | Giuseppe Barca - Title |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
@@ -34,7 +34,7 @@ draft: false
 |               |                 | 
 | 16:00 - 16:30 | Pina Romaniello - Title |
 | 16:30 - 17.00 | Xavier Blase - Title |
-| 17:00 - 17.30 | Alexander Sokolov - Title |
+| 17:00 - 17.30 | Alexander Sokolov - New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |
 |               |                 | 
@@ -68,9 +68,9 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | George Booth - Title |
+| 16:00 - 16:30 | George Booth - A fresh perspective on Green's function methods |
 | 16:30 - 17.00 | Andreea Filip - Title |
-| 17:00 - 17.30 | Emmanuel Fromager - Title |
+| 17:00 - 17.30 | Emmanuel Fromager - Ensemble density-functional theory of electrons and nuclei |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |
 |               |                 | 
@@ -87,13 +87,13 @@ draft: false
 | **SESSION 5** | Chair: Chairman |
 |               |                 |
 |  9:30 - 10:00 | Morgane Vacher - Title |
-| 10:00 - 10:30 | Thomas Jagau - Title |
+| 10:00 - 10:30 | Thomas Jagau - Describing unbound electrons by complex-valued energies |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
 | 11:00 - 11:30 | Diptarka Hait - Title |
-| 11:30 - 12:00 | Kasia Pernal - Title |
-| 12:00 - 12:30 | Eduard Matito - Title |
+| 11:30 - 12:00 | Kasia Pernal - Excited state energy calculation with wavefunction-adiabatic-connection methods |
+| 12:00 - 12:30 | Eduard Matito - How reliable are modern density functional approximations to simulate vibrational spectroscopies? |
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
