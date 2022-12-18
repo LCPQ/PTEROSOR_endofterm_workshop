@@ -12,7 +12,7 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 1** | Chair: Chairman |
+| **SESSION 1** | Chair: Pierre-Francois Loos |
 |               |                 |
 |  9:30 - 10:00 | So Hirata - Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe |
 | 10:00 - 10:30 | Giuseppe Barca - Title |
@@ -25,7 +25,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
-| **SESSION 2** | Chair: Chairman |
+| **SESSION 2** | Chair: Raul Quintero |
 |               |                 |
 | 14:00 - 14:30 | Lucia Reining - Title |
 | 14:30 - 15.00 | Timothy Berkelbach - Title |
@@ -48,7 +48,7 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 3** | Chair: Chairman |
+| **SESSION 3** | Chair: Sara Giarrusso |
 |               |                 |
 |  9:30 - 10:00 | Julien Toulouse- Title |
 | 10:00 - 10:30 | Neepa Maitra - Title |
@@ -61,7 +61,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
-| **SESSION 4** | Chair: Chairman |
+| **SESSION 4** | Chair: Anthony Scemama |
 |               |                 |
 | 14:00 - 14:30 | Claudia Filippi - Title |
 | 14:30 - 15.00 | Eric Neuscamman - Title |
@@ -84,7 +84,7 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 5** | Chair: Chairman |
+| **SESSION 5** | Chair: Fabris Kossoski |
 |               |                 |
 |  9:30 - 10:00 | Morgane Vacher - Title |
 | 10:00 - 10:30 | Thomas Jagau - Describing unbound electrons by complex-valued energies |
@@ -97,7 +97,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break     |
 |               |                 |
-| **SESSION 6** | Chair: Chairman |
+| **SESSION 6** | Chair: Michel Caffarel |
 |               |                 |
 | 14:00 - 14:30 | Katharina Boguslawski - Title |
 | 14:30 - 15.00 | Alex Thom - Title |
