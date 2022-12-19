@@ -16,7 +16,7 @@ draft: false
 **TBA**
 
 ### Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
-**TBA**
+**GW and Bethe-Sapeter calculations embedded in very large scale dielectric environment**
 
 ### Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
 **TBA**
