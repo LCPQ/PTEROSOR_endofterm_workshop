@@ -42,6 +42,7 @@ draft: false
 1. Abdallah Ammar (U of Toulouse, France) <!-- aammar@irsamc.ups-tlse.fr -->
 1. Filip Cernatic (U of Strasbourg, France) <!-- filip.cernatic@etu.unistra.fr -->
 1. Florian Matz (KU Leuven, Belgium) <!-- florian.matz@kuleuven.be -->
+1. David Amblard (Institut Neel, France) <!-- david.amblard@neel.cnrs.fr -->
 
 <!--
 Backup list:
