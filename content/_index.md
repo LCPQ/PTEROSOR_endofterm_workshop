@@ -34,7 +34,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Claudia Filippi 
 * Emmanuel Fromager 
 * Peter Gill 
-* Tim Gould (TBC)
+* Tim Gould
 * Emmanuel Giner 
 * Diptarka Hait
 * So Hirata 

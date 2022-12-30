@@ -18,7 +18,7 @@ draft: false
 1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
 1. Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
-1. Tim Gould (Griffith U, Australia) TBC <!-- t.gould@griffith.edu.au -->
+1. Tim Gould (Griffith U, Australia) <!-- t.gould@griffith.edu.au -->
 1. Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
 1. Diptarka Hait (Standford, US) <!-- diptarka@stanford.edu -->
 1. So Hirata (U of Illinois, US) <!-- sohirata@illinois.edu -->
