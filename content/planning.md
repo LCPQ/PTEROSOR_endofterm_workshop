@@ -32,7 +32,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Pina Romaniello - Title |
+| 16:00 - 16:30 | Pina Romaniello - Photoemission spectroscopy from the three-body Green's function |
 | 16:30 - 17.00 | Xavier Blase - GW and Bethe-Sapeter calculations embedded in very large scale dielectric environment |
 | 17:00 - 17.30 | Alexander Sokolov - New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra |
 |               |                 | 

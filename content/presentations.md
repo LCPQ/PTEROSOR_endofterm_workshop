@@ -82,7 +82,7 @@ draft: false
 **TBA**
 
 ### Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
-**TBA**
+**Photoemission spectroscopy from the three-body Green's function**
 
 ### Sandeep Sharma (U of Colorado, US) <!-- sandeep.sharma@colorado.edu -->
 **TBA**
