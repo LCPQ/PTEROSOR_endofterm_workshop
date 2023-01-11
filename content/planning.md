@@ -105,7 +105,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | Josh Hollett- Title |
-| 16:30 - 17.00 | Tim Gould - Title |
+| 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
 | 17:00 - 17.30 | Peter Gill- Title |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail!       |

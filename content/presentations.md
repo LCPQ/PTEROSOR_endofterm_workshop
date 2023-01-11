@@ -40,7 +40,7 @@ draft: false
 **TBA**
 
 ### Tim Gould (Griffith U, Australia) TBC <!-- t.gould@griffith.edu.au -->
-**TBA**
+**Electronic structure of excited states from ensemble density functional theory**
 
 ### Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
 **Transcorrelation made feasible**
