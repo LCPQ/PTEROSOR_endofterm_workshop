@@ -70,7 +70,7 @@ draft: false
 **How reliable are modern density functional approximations to simulate vibrational spectroscopies?**
 
 ### Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
-**TBA**
+**Excited state calculations with Tensor Product State Selected CI (TPSCI)**
 
 ### Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
 **TBA**

@@ -19,7 +19,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Nick Mayhall - Title |
+| 11:00 - 11:30 | Nick Mayhall - Excited state calculations with Tensor Product State Selected CI (TPSCI) |
 | 11:30 - 12:00 | Hugh Burton- Title |
 | 12:00 - 12:30 | Joohno Lee - Title |
 |               |                 |
