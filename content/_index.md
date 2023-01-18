@@ -45,7 +45,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Neepa Maitra
 * Eduard Matito 
 * Nick Mayhall 
-* Eric Neuscamman (TBC)
+* Eric Neuscamman
 * Kasia Pernal 
 * Lucia Reining 
 * Pina Romaniello 

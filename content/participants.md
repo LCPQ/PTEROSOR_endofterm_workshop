@@ -29,7 +29,7 @@ draft: false
 1. Neepa Maitra (Rutgers U, US) <!-- neepa.maitra@rutgers.edu -->
 1. Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
-1. Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
+1. Eric Neuscamman (Berkeley, US) <!-- eric.neuscamman@gmail.com -->
 1. Kasia Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
 1. Lucia Reining (Polytechnique, France) <!-- lucia.reining@polytechnique.fr -->
 1. Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
