@@ -63,7 +63,7 @@ draft: false
 |               |                 |
 | **SESSION 4** | Chair: Anthony Scemama |
 |               |                 |
-| 14:00 - 14:30 | Claudia Filippi - Title |
+| 14:00 - 14:30 | Claudia Filippi - Targeting excited states with quantum Monte Carlo |
 | 14:30 - 15.00 | Eric Neuscamman - Title |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
