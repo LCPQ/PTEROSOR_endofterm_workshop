@@ -31,7 +31,7 @@ draft: false
 **TBA**
 
 ### Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
-**TBA**
+**Targeting excited states with quantum Monte Carlo**
 
 ### Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
 **Ensemble density-functional theory of electrons and nuclei**
