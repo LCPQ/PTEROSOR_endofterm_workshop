@@ -20,7 +20,6 @@ draft: false
 1. Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
 1. Tim Gould (Griffith U, Australia) <!-- t.gould@griffith.edu.au -->
 1. Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
-1. Diptarka Hait (Standford, US) <!-- diptarka@stanford.edu -->
 1. So Hirata (U of Illinois, US) <!-- sohirata@illinois.edu -->
 1. Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
 1. Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->

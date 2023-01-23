@@ -45,9 +45,6 @@ draft: false
 ### Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
 **Transcorrelation made feasible**
 
-### Diptarka Hait (Standford, US) <!-- diptarka@stanford.edu -->
-**TBA**
-
 ### So Hirata (U of Illinois, US) TBC <!-- sohirata@illinois.edu -->
 **Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe**
 

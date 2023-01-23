@@ -91,7 +91,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Diptarka Hait - Title |
+| 11:00 - 11:30 | Speaker - Title |
 | 11:30 - 12:00 | Kasia Pernal - Excited state energy calculation with wavefunction-adiabatic-connection methods |
 | 12:00 - 12:30 | Eduard Matito - How reliable are modern density functional approximations to simulate vibrational spectroscopies? |
 |               |                 |
