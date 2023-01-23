@@ -23,7 +23,7 @@ draft: false
 | 11:30 - 12:00 | Hugh Burton- Title |
 | 12:00 - 12:30 | Joohno Lee - Title |
 |               |                 |
-| 12:30 - 14:00 | Lunch break     |
+| 12:30 - 14:00 | Lunch break & Poster    |
 |               |                 |
 | **SESSION 2** | Chair: Raul Quintero |
 |               |                 |
@@ -36,7 +36,7 @@ draft: false
 | 16:30 - 17.00 | Xavier Blase - GW and Bethe-Sapeter calculations embedded in very large scale dielectric environment |
 | 17:00 - 17.30 | Alexander Sokolov - New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail!       |
+| 17:30 - 18:30 | Cocktail! & Poster      |
 |               |                 | 
 | 19:30 - 22:30 | Dinner!!        | 
 |               |                 | 
@@ -59,7 +59,7 @@ draft: false
 | 11:30 - 12:00 | Stefano Battaglia - Title |
 | 12:00 - 12:30 | Denis Jacquemin - The QUEST database of ultra-accurate excited-state energies, oscillator strengths, dipoles, and geometries |
 |               |                 |
-| 12:30 - 14:00 | Lunch break     |
+| 12:30 - 14:00 | Lunch break & Poster |
 |               |                 |
 | **SESSION 4** | Chair: Anthony Scemama |
 |               |                 |
@@ -72,7 +72,7 @@ draft: false
 | 16:30 - 17.00 | Andreea Filip - Title |
 | 17:00 - 17.30 | Emmanuel Fromager - Ensemble density-functional theory of electrons and nuclei |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail!       |
+| 17:30 - 18:30 | Cocktail! & Poster       |
 |               |                 | 
 | 19:30 - 22:30 | Dinner!!        | 
 |               |                 | 
@@ -95,7 +95,7 @@ draft: false
 | 11:30 - 12:00 | Kasia Pernal - Excited state energy calculation with wavefunction-adiabatic-connection methods |
 | 12:00 - 12:30 | Eduard Matito - How reliable are modern density functional approximations to simulate vibrational spectroscopies? |
 |               |                 |
-| 12:30 - 14:00 | Lunch break     |
+| 12:30 - 14:00 | Lunch break & Poster    |
 |               |                 |
 | **SESSION 6** | Chair: Michel Caffarel |
 |               |                 |
@@ -108,7 +108,7 @@ draft: false
 | 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
 | 17:00 - 17.30 | Peter Gill- Can excited states be computed using highly localized orbitals? |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail!       |
+| 17:30 - 18:30 | Good bye Cocktail! |
 |               |                 |
 
 
