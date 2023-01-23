@@ -50,8 +50,7 @@ draft: false
 |               |                 |
 | **SESSION 3** | Chair: Sara Giarrusso |
 |               |                 |
-|  9:30 - 10:00 | Julien Toulouse - Two strategies for continuum excited states: Robin boundary conditions 
-and semiclassical approximations |
+|  9:30 - 10:00 | Julien Toulouse - Two strategies for continuum excited states: Robin boundary conditions and semiclassical approximations |
 | 10:00 - 10:30 | Neepa Maitra - Title |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |

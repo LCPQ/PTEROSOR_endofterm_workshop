@@ -94,8 +94,7 @@ draft: false
 **TBA**
 
 ### Julien Toulouse (Sorbonne U, France) <!-- toulouse@lct.jussieu.fr -->
-**Two strategies for continuum excited states: Robin boundary conditions 
-and semiclassical approximations**
+**Two strategies for continuum excited states: Robin boundary conditions and semiclassical approximations**
 
 ### Morgane Vacher (U of Nantes, France) <!-- Morgane.Vacher@univ-nantes.fr -->
 **TBA**
