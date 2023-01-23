@@ -104,7 +104,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Josh Hollett- Title |
+| 16:00 - 16:30 | Josh Hollett- On the two-electron nature of excited states |
 | 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
 | 17:00 - 17.30 | Peter Gill- Can excited states be computed using highly localized orbitals? |
 |               |                 | 
