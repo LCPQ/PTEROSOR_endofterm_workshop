@@ -6,6 +6,7 @@ draft: false
 
 ## NEWS
 
+* **Jan 2023:** A preliminary version of the program is available.
 * **Sep 2022:** The workshop's website is officialy up and running!
 
 ## THE WORKSHOP
