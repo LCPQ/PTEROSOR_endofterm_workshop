@@ -55,7 +55,7 @@ draft: false
 **On the two-electron nature of excited states**
 
 ### Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->
-**TBA**
+**The QUEST database of ultra-accurate excited-state energies, oscillator strengths, dipoles, and geometries**
 
 ### Thomas Jagau (KU Leuven, Belgium) 
 **Describing unbound electrons by complex-valued energies**
