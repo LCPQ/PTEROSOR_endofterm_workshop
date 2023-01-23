@@ -37,7 +37,7 @@ draft: false
 **Ensemble density-functional theory of electrons and nuclei**
 
 ### Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
-**TBA**
+**Can excited states be computed using highly localized orbitals?**
 
 ### Tim Gould (Griffith U, Australia) TBC <!-- t.gould@griffith.edu.au -->
 **Electronic structure of excited states from ensemble density functional theory**
@@ -94,7 +94,8 @@ draft: false
 **TBA**
 
 ### Julien Toulouse (Sorbonne U, France) <!-- toulouse@lct.jussieu.fr -->
-**TBA**
+**Two strategies for continuum excited states: Robin boundary conditions 
+and semiclassical approximations**
 
 ### Morgane Vacher (U of Nantes, France) <!-- Morgane.Vacher@univ-nantes.fr -->
 **TBA**
