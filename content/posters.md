@@ -6,11 +6,12 @@ draft: false
 
 ### Abdallah Ammar (U of Toulouse, France) 
 **TBA**
+
 ### Filip Cernatic (U of Strasbourg, France) 
 **TBA**
 
 ### Florian Matz (KU Leuven, Belgium) 
-**TBA**
+**Theoretical Treatment of Molecular Auger Decay with Non-Hermitian Quantum Chemistry**
 
 ### David Amblard (Institut Neel, France) 
 **TBA**
@@ -18,21 +19,21 @@ draft: false
 ### Gabriele Riva (U of Toulouse, France) 
 **TBA**
 
-### Fabris Kossoski  (U of Toulouse, France)
+### Fabris Kossoski (U of Toulouse, France)
 **TBA**
 
-### Raul Quintero  (U of Toulouse, France)
+### Raul Quintero (U of Toulouse, France)
 **TBA**
 
-### Sara Giarrusso  (U of Toulouse, France)
+### Sara Giarrusso (U of Toulouse, France)
+**Shape of the Møller-Plesset adiabatic connection integrand for a model diatomic system at different correlation regimes**
+
+### Enzo Monino (U of Toulouse, France)
 **TBA**
 
-### Enzo Monino  (U of Toulouse, France)
+### Yann Damour (U of Toulouse, France)
 **TBA**
 
-### Yann Damour  (U of Toulouse, France)
-**TBA**
-
-### Antoine Marie  (U of Toulouse, France)
-**TBA**
+### Antoine Marie (U of Toulouse, France)
+**A Similarity Renormalization Group Approach To Many-Body Perturbation Theory**
 
