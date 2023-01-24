@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Abdallah Ammar (U of Toulouse, France) 
-**TBA**
+**Transcorrelated Configuration Interaction applied to excited states of molecules**
 
 ### Filip Cernatic (U of Strasbourg, France) 
 **TBA**
