@@ -30,14 +30,12 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Katharina Boguslawski 
 * George Booth
 * Hugh Burton (TBC)
-* Michel Caffarel 
 * Andreea Filip
 * Claudia Filippi 
 * Emmanuel Fromager 
 * Peter Gill 
 * Tim Gould
 * Emmanuel Giner 
-* Diptarka Hait
 * So Hirata 
 * Joshua Hollett 
 * Denis Jacquemin 
@@ -50,7 +48,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Kasia Pernal 
 * Lucia Reining 
 * Pina Romaniello 
-* Anthony Scemama 
 * Sandeep Sharma 
 * Alexander Sokolov 
 * Alex Thom 
