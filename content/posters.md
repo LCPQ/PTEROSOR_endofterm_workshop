@@ -14,7 +14,7 @@ draft: false
 **Theoretical Treatment of Molecular Auger Decay with Non-Hermitian Quantum Chemistry**
 
 ### David Amblard (Institut Neel, France) 
-**TBA**
+**Optimal representation for electronic susceptibility**
 
 ### Gabriele Riva (U of Toulouse, France) 
 **TBA**

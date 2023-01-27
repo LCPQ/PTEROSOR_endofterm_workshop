@@ -41,7 +41,7 @@ draft: false
 1. Abdallah Ammar (U of Toulouse, France) <!-- aammar@irsamc.ups-tlse.fr -->
 1. Filip Cernatic (U of Strasbourg, France) <!-- filip.cernatic@etu.unistra.fr -->
 1. Florian Matz (KU Leuven, Belgium) <!-- florian.matz@kuleuven.be -->
-1. David Amblard (Institut Neel, France) TBC <!-- david.amblard@neel.cnrs.fr -->
+1. David Amblard (Institut Neel, France) <!-- david.amblard@neel.cnrs.fr -->
 1. Roberto Orlando (U of Toulouse, France) <!-- roberto.orlando@univ-tlse3.fr -->
 1. Gabriele Riva (U of Toulouse, France) <!-- griva@irsamc.ups-tlse.fr -->
 1. Vijay Gopal Chilkuri (Aix-Marseille U, France) <!-- vijay.gopal.c@gmail.com -->
