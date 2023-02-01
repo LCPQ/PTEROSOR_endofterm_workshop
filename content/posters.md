@@ -37,3 +37,6 @@ draft: false
 ### Antoine Marie (U of Toulouse, France)
 **A Similarity Renormalization Group Approach To Many-Body Perturbation Theory**
 
+### Vijay Gopal Chilkuri (Aix Marseille U, France)
+**Code generator for the evaluation of arbitrary matrix-elements for unitary group adapted wavefunctions**
+
