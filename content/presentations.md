@@ -39,13 +39,13 @@ draft: false
 ### Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
 **Can excited states be computed using highly localized orbitals?**
 
-### Tim Gould (Griffith U, Australia) TBC <!-- t.gould@griffith.edu.au -->
+### Tim Gould (Griffith U, Australia) <!-- t.gould@griffith.edu.au -->
 **Electronic structure of excited states from ensemble density functional theory**
 
 ### Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
 **Transcorrelation made feasible**
 
-### So Hirata (U of Illinois, US) TBC <!-- sohirata@illinois.edu -->
+### So Hirata (U of Illinois, US) <!-- sohirata@illinois.edu -->
 **Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe**
 
 ### Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
@@ -69,7 +69,7 @@ draft: false
 ### Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it-->
 **TBA**
 
-### Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
+### Eric Neuscamman (Berkeley, US) <!-- eric.neuscamman@gmail.com -->
 **TBA**
 
 ### Kasia Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
