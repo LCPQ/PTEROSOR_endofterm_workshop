@@ -60,14 +60,14 @@ draft: false
 ### Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 **TBA**
 
-### Neepa Maitra (Rutgers U, US) <!-- neepa.maitra@rutgers.edu -->
-**TBA**
-
 ### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 **How reliable are modern density functional approximations to simulate vibrational spectroscopies?**
 
 ### Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 **Excited state calculations with Tensor Product State Selected CI (TPSCI)**
+
+### Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it-->
+**TBA**
 
 ### Eric Neuscamman (Berkeley, US) TBC <!-- eric.neuscamman@gmail.com -->
 **TBA**
