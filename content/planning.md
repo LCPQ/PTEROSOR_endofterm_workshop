@@ -51,7 +51,7 @@ draft: false
 | **SESSION 3** | Chair: Sara Giarrusso |
 |               |                 |
 |  9:30 - 10:00 | Julien Toulouse - Two strategies for continuum excited states: Robin boundary conditions and semiclassical approximations |
-| 10:00 - 10:30 | Carlos Mejuto Zaera - Title |
+| 10:00 - 10:30 | Carlos Mejuto Zaera - Self-consistency in GWΓ formalism leading to quasiparticle-quasiparticle couplings |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 

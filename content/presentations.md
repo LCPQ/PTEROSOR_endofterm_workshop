@@ -67,7 +67,7 @@ draft: false
 **Excited state calculations with Tensor Product State Selected CI (TPSCI)**
 
 ### Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it-->
-**TBA**
+**Self-consistency in GWΓ formalism leading to quasiparticle-quasiparticle couplings**
 
 ### Eric Neuscamman (Berkeley, US) <!-- eric.neuscamman@gmail.com -->
 **TBA**
