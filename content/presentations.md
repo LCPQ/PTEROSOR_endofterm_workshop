@@ -28,7 +28,7 @@ draft: false
 **TBA**
 
 ### Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
-**TBA**
+**Quantum Monte Carlo Ideas for Near-Term Quantum Computing Algorithms**
 
 ### Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 **Targeting excited states with quantum Monte Carlo**

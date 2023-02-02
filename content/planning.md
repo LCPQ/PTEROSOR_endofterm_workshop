@@ -69,7 +69,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | George Booth - A fresh perspective on Green's function methods |
-| 16:30 - 17.00 | Andreea Filip - Title |
+| 16:30 - 17.00 | Andreea Filip - Quantum Monte Carlo Ideas for Near-Term Quantum Computing Algorithms |
 | 17:00 - 17.30 | Emmanuel Fromager - Ensemble density-functional theory of electrons and nuclei |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail! & Poster       |
