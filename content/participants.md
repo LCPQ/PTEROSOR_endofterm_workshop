@@ -46,6 +46,8 @@ draft: false
 1. Gabriele Riva (U of Toulouse, France) <!-- griva@irsamc.ups-tlse.fr -->
 1. Vijay Gopal Chilkuri (Aix Marseille U, France) <!-- vijay.gopal.c@gmail.com -->
 1. Yorick Schmerwitz (U of Iceland, Iceland) <!-- yla1@hi.is -->
+1. Diata Traore (Sorbonne U, France) <!-- diata.traore@upmc.fr -->
+1. Timothée Audinet (Sorbonne U, France) <!-- timothee.audinet@upmc.fr -->
 
 # Local organisers 
 
