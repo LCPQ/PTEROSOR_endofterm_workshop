@@ -46,3 +46,9 @@ draft: false
 ### Yorick Schmerwitz (U of Iceland)
 **Calculations of Excited Electronic States by Converging on Saddle Points Using Generalized Mode Following**
 
+### Diata Traore (Sorbonne, U, Paris)
+**Density-based basis-set correction applied to linear-response calculations**
+
+### Timothée Audinet (Sorbonne U, France)
+**TBA**
+
