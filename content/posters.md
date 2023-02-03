@@ -43,3 +43,6 @@ draft: false
 ### Anthony Scemama (U of Toulouse, France)
 **TREXIO: user-friendly I-O library for quantum chemists**
 
+### Yorick Schmerwitz (U of Iceland)
+**Calculations of Excited Electronic States by Converging on Saddle Points Using Generalized Mode Following**
+

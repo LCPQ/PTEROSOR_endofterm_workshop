@@ -45,17 +45,7 @@ draft: false
 1. Roberto Orlando (U of Toulouse, France) <!-- roberto.orlando@univ-tlse3.fr -->
 1. Gabriele Riva (U of Toulouse, France) <!-- griva@irsamc.ups-tlse.fr -->
 1. Vijay Gopal Chilkuri (Aix Marseille U, France) <!-- vijay.gopal.c@gmail.com -->
-
-<!--
-Backup list:
-1. James Shee
-1. Paul Johnson
-1. Debashree Ghosh
-1. Shirin Faraji
-1. Stijn De Baerdemacker
-1. Janus Eriksen
-1. Chenyang Li
--->
+1. Yorick Schmerwitz (U of Iceland, Iceland) <!-- yla1@hi.is -->
 
 # Local organisers 
 
