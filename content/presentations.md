@@ -10,7 +10,7 @@ draft: false
 **TBA**
 
 ### Stefano Battaglia (U of Zurich, Switzerland) <!-- stefano.battaglia@chem.uzh.ch -->
-**TBA**
+**New variants of the CASPT2 method**
 
 ### Timothy Berkelbach (Columbia U, US) <!-- t.berkelbach@columbia.edu -->
 **TBA**
