@@ -4,8 +4,6 @@ date: 2020-12-02 09:06
 draft: false
 ---
 
-# Invited Speakers
-
 ### Giuseppe Barca (Australian National University, Australia) <!-- giuseppemj.barca@gmail.com -->
 **TBA**
 
