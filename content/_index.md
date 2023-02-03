@@ -6,6 +6,7 @@ draft: false
 
 ## NEWS
 
+* **Feb 2023:** All the planets are lined up! See you in April and safe travel.
 * **Jan 2023:** A preliminary version of the program is available.
 * **Sep 2022:** The workshop's website is officialy up and running!
 
