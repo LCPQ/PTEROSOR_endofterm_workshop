@@ -50,5 +50,5 @@ draft: false
 **Density-based basis-set correction applied to linear-response calculations**
 
 ### Timothée Audinet (Sorbonne U, France)
-**TBA**
+**One-dimensional model for relativistic quantum chemistry**
 
