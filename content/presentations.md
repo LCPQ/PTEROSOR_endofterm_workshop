@@ -22,9 +22,6 @@ draft: false
 ### George Booth (King's College, UK) <!-- george.booth@kcl.ac.uk -->
 **A fresh perspective on Green's function methods**
 
-### Hugh Burton (Oxford, UK) TBC <!-- hugh.burton@chem.ox.ac.uk -->
-**TBA**
-
 ### Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 **Quantum Monte Carlo Ideas for Near-Term Quantum Computing Algorithms**
 
@@ -56,6 +53,9 @@ draft: false
 **Describing unbound electrons by complex-valued energies**
 
 ### Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
+**TBA**
+
+### Gianluca Levi (U of Iceland, Iceland) TBC <!-- giale@hi.is -->
 **TBA**
 
 ### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->

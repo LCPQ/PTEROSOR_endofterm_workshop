@@ -30,7 +30,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Xavier Blase 
 * Katharina Boguslawski 
 * George Booth
-* Hugh Burton (TBC)
 * Andreea Filip
 * Claudia Filippi 
 * Emmanuel Fromager 
@@ -42,6 +41,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Denis Jacquemin 
 * Thomas Jagau 
 * Joohno Lee 
+* Gianluca Levi TBC
 * Eduard Matito 
 * Nick Mayhall 
 * Carlos Mejuto Zaera
