@@ -17,7 +17,7 @@ draft: false
 **Optimal representation for electronic susceptibility**
 
 ### Gabriele Riva (U of Toulouse, France) 
-**TBA**
+**Photoemission spectroscopy from the three-body Green's function**
 
 ### Fabris Kossoski (U of Toulouse, France)
 **TBA**
