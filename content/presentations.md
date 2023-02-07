@@ -11,7 +11,7 @@ draft: false
 **New variants of the CASPT2 method**
 
 ### Timothy Berkelbach (Columbia U, US) <!-- t.berkelbach@columbia.edu -->
-**TBA**
+**Excitations in solids with EOM-CCSD: Where do we stand?**
 
 ### Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 **GW and Bethe-Sapeter calculations embedded in very large scale dielectric environment**
