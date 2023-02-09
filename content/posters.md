@@ -20,7 +20,7 @@ draft: false
 **Photoemission spectroscopy from the three-body Green's function**
 
 ### Fabris Kossoski (U of Toulouse, France)
-**TBA**
+**State-specific configuration interaction for excited states**
 
 ### Raul Quintero (U of Toulouse, France)
 **TBA**
