@@ -32,7 +32,7 @@ draft: false
 **TBA**
 
 ### Yann Damour (U of Toulouse, France)
-**TBA**
+**A selected configuration interaction study of ground- and excited-state dipole moments and oscillator strengths**
 
 ### Antoine Marie (U of Toulouse, France)
 **A Similarity Renormalization Group Approach To Many-Body Perturbation Theory**
