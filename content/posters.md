@@ -29,7 +29,7 @@ draft: false
 **Shape of the Møller-Plesset adiabatic connection integrand for a model diatomic system at different correlation regimes**
 
 ### Enzo Monino (U of Toulouse, France)
-**TBA**
+**Unphysical Discontinuities, Intruder States and Regularization in GW Methods**
 
 ### Yann Damour (U of Toulouse, France)
 **A selected configuration interaction study of ground- and excited-state dipole moments and oscillator strengths**
