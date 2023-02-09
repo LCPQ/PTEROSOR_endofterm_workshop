@@ -23,7 +23,7 @@ draft: false
 **State-specific configuration interaction for excited states**
 
 ### Raul Quintero (U of Toulouse, France)
-**TBA**
+**Equation Generator for Equation-of-Motion Coupled Cluster Assisted by Computer Algebra System**
 
 ### Sara Giarrusso (U of Toulouse, France)
 **Shape of the Møller-Plesset adiabatic connection integrand for a model diatomic system at different correlation regimes**
