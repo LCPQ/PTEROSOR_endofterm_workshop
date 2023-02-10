@@ -13,7 +13,6 @@ draft: false
 1. Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
 1. George Booth (King's College, UK) <!-- george.booth@kcl.ac.uk -->
-1. Hugh Burton (Oxford, UK) TBC <!-- hugh.burton@chem.ox.ac.uk -->
 1. Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
 1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
