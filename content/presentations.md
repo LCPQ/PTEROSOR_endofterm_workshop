@@ -55,7 +55,7 @@ draft: false
 ### Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 **TBA**
 
-### Gianluca Levi (U of Iceland, Iceland) TBC <!-- giale@hi.is -->
+### Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
 **TBA**
 
 ### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->

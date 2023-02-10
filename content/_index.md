@@ -41,7 +41,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Denis Jacquemin 
 * Thomas Jagau 
 * Joohno Lee 
-* Gianluca Levi TBC
+* Gianluca Levi 
 * Eduard Matito 
 * Nick Mayhall 
 * Carlos Mejuto Zaera

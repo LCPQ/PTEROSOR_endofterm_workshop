@@ -25,6 +25,7 @@ draft: false
 1. Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->
 1. Thomas Jagau (KU Leuven, Belgium) <!-- thomas.jagau@kuleuven.be -->
 1. Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
+1. Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
 1. Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 1. Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it -->
