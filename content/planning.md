@@ -20,7 +20,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
 | 11:00 - 11:30 | Nick Mayhall - Excited state calculations with Tensor Product State Selected CI (TPSCI) |
-| 11:30 - 12:00 | Speaker - Title |
+| 11:30 - 12:00 | Gianluca Levi - Title |
 | 12:00 - 12:30 | Joohno Lee - Title |
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Poster    |
