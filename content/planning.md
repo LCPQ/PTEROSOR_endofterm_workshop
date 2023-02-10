@@ -86,7 +86,7 @@ draft: false
 |               |                 |
 | **SESSION 5** | Chair: Fabris Kossoski |
 |               |                 |
-|  9:30 - 10:00 | Morgane Vacher - Title |
+|  9:30 - 10:00 | Morgane Vacher - Non-adiabatic excited state dynamics |
 | 10:00 - 10:30 | Thomas Jagau - Describing unbound electrons by complex-valued energies |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |

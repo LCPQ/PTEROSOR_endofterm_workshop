@@ -92,5 +92,5 @@ draft: false
 **Two strategies for continuum excited states: Robin boundary conditions and semiclassical approximations**
 
 ### Morgane Vacher (U of Nantes, France) <!-- Morgane.Vacher@univ-nantes.fr -->
-**TBA**
+**Non-adiabatic excited state dynamics**
 
