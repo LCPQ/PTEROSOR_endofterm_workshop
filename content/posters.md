@@ -8,7 +8,7 @@ draft: false
 **Transcorrelated Configuration Interaction applied to excited states of molecules**
 
 ### Filip Cernatic (U of Strasbourg, France) 
-**TBA**
+**Quantum embedding approach for multiple electronic states using the Householder transformation**
 
 ### Florian Matz (KU Leuven, Belgium) 
 **Theoretical Treatment of Molecular Auger Decay with Non-Hermitian Quantum Chemistry**
