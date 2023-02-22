@@ -17,7 +17,7 @@ draft: false
 **GW and Bethe-Sapeter calculations embedded in very large scale dielectric environment**
 
 ### Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
-**TBA**
+**Targeting excited states with simplified coupled cluster methods**
 
 ### George Booth (King's College, UK) <!-- george.booth@kcl.ac.uk -->
 **A fresh perspective on Green's function methods**
