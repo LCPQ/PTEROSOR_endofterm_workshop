@@ -53,7 +53,7 @@ draft: false
 **Describing unbound electrons by complex-valued energies**
 
 ### Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
-**TBA**
+**Variational Theory of Charge Excitations in Solids Coupled to Lattice Vibrations**
 
 ### Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
 **TBA**
