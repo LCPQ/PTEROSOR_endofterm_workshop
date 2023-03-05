@@ -15,7 +15,7 @@ draft: false
 | **SESSION 1** | Chair: Pierre-Francois Loos |
 |               |                 |
 |  9:30 - 10:00 | So Hirata - Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe |
-| 10:00 - 10:30 | Giuseppe Barca - Title |
+| 10:00 - 10:30 | Giuseppe Barca - Accelerating quantum chemistry by orders of magnitude with the EXtreme-scale Electronic Structure System (EXESS) |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 

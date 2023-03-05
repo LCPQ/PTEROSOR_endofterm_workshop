@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Giuseppe Barca (Australian National University, Australia) <!-- giuseppemj.barca@gmail.com -->
-**TBA**
+**Accelerating quantum chemistry by orders of magnitude with the EXtreme-scale Electronic Structure System (EXESS)**
 
 ### Stefano Battaglia (U of Zurich, Switzerland) <!-- stefano.battaglia@chem.uzh.ch -->
 **New variants of the CASPT2 method**
