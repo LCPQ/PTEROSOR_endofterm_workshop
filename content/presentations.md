@@ -68,7 +68,7 @@ draft: false
 **Self-consistency in GWΓ formalism leading to quasiparticle-quasiparticle couplings**
 
 ### Eric Neuscamman (Berkeley, US) <!-- eric.neuscamman@gmail.com -->
-**TBA**
+**New developments in excited-state-specific correlation methods**
 
 ### Kasia Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->
 **Excited state energy calculation with wavefunction-adiabatic-connection methods**
