@@ -27,7 +27,7 @@ draft: false
 |               |                 |
 | **SESSION 2** | Chair: Raul Quintero |
 |               |                 |
-| 14:00 - 14:30 | Lucia Reining - Title |
+| 14:00 - 14:30 | Lucia Reining - About the use of model results to design functionals |
 | 14:30 - 15.00 | Timothy Berkelbach - Excitations in solids with EOM-CCSD: Where do we stand? |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |

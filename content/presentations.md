@@ -74,7 +74,7 @@ draft: false
 **Excited state energy calculation with wavefunction-adiabatic-connection methods**
 
 ### Lucia Reining (Polytechnique, France) <!-- lucia.reining@polytechnique.fr -->
-**TBA**
+**About the use of model results to design functionals**
 
 ### Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
 **Photoemission spectroscopy from the three-body Green's function**
