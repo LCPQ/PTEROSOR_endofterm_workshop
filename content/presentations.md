@@ -56,7 +56,7 @@ draft: false
 **Variational Theory of Charge Excitations in Solids Coupled to Lattice Vibrations**
 
 ### Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
-**TBA**
+**Density functional calculations of excited states with orbital optimization using saddle point search methods**
 
 ### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
 **How reliable are modern density functional approximations to simulate vibrational spectroscopies?**
