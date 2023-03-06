@@ -55,7 +55,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Sandeep Sharma - Title |
+| 11:00 - 11:30 | Sandeep Sharma - Efficient hybrid DFT for periodic systems |
 | 11:30 - 12:00 | Stefano Battaglia - New variants of the CASPT2 method |
 | 12:00 - 12:30 | Denis Jacquemin - The QUEST database of ultra-accurate excited-state energies, oscillator strengths, dipoles, and geometries |
 |               |                 |

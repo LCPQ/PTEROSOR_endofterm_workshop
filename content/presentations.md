@@ -80,7 +80,7 @@ draft: false
 **Photoemission spectroscopy from the three-body Green's function**
 
 ### Sandeep Sharma (U of Colorado, US) <!-- sandeep.sharma@colorado.edu -->
-**TBA**
+**Efficient hybrid DFT for periodic systems**
 
 ### Alexander Sokolov (Ohio State U, US) <!-- sokolov.8@osu.edu -->
 **New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra**
