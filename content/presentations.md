@@ -86,7 +86,7 @@ draft: false
 **New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra**
 
 ### Alex Thom (Cambridge, UK) <!-- ajwt3@cam.ac.uk -->
-**TBA**
+**Excited States from holomorphic NOCI**
 
 ### Julien Toulouse (Sorbonne U, France) <!-- toulouse@lct.jussieu.fr -->
 **Two strategies for continuum excited states: Robin boundary conditions and semiclassical approximations**

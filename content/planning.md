@@ -100,7 +100,7 @@ draft: false
 | **SESSION 6** | Chair: Michel Caffarel |
 |               |                 |
 | 14:00 - 14:30 | Katharina Boguslawski - Targeting excited states with simplified coupled cluster methods |
-| 14:30 - 15.00 | Alex Thom - Title |
+| 14:30 - 15.00 | Alex Thom - Excited States from holomorphic NOCI |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
