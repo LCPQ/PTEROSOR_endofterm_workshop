@@ -14,7 +14,7 @@ draft: false
 **Excitations in solids with EOM-CCSD: Where do we stand?**
 
 ### Xavier Blase (Institut Neel, France) <!-- xavier.blase@neel.cnrs.fr -->
-**GW and Bethe-Sapeter calculations embedded in very large scale dielectric environment**
+**GW and Bethe-Salpeter calculations embedded in very large scale dielectric environment**
 
 ### Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
 **Targeting excited states with simplified coupled cluster methods**
