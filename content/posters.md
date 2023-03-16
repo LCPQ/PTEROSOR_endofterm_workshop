@@ -52,3 +52,6 @@ draft: false
 ### Timothée Audinet (Sorbonne U, France)
 **One-dimensional model for relativistic quantum chemistry**
 
+### Pierre-Francois Loos (U of Toulouse, France)
+**Exact Excited-State Functionals of the Asymmetric Hubbard Dimer**
+
