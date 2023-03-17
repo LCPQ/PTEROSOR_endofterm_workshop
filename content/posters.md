@@ -26,7 +26,7 @@ draft: false
 **Equation Generator for Equation-of-Motion Coupled Cluster Assisted by Computer Algebra System**
 
 ### Sara Giarrusso (U of Toulouse, France)
-**Shape of the Møller-Plesset adiabatic connection integrand for a model diatomic system at different correlation regimes**
+**Exact Excited-State Functionals of the Asymmetric Hubbard Dimer**
 
 ### Enzo Monino (U of Toulouse, France)
 **Unphysical Discontinuities, Intruder States and Regularization in GW Methods**
@@ -51,7 +51,3 @@ draft: false
 
 ### Timothée Audinet (Sorbonne U, France)
 **One-dimensional model for relativistic quantum chemistry**
-
-### Pierre-Francois Loos (U of Toulouse, France)
-**Exact Excited-State Functionals of the Asymmetric Hubbard Dimer**
-
