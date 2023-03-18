@@ -106,7 +106,7 @@ draft: false
 |               |                 | 
 | 16:00 - 16:30 | Josh Hollett- On the two-electron nature of excited states |
 | 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
-| 17:00 - 17.30 | Peter Gill- Can excited states be computed using highly localized orbitals? |
+| 17:00 - 17.30 | Peter Gill- Economical Models for Electron Densities |
 |               |                 | 
 | 17:30 - 18:30 | Good bye Cocktail! |
 |               |                 |

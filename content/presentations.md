@@ -32,7 +32,7 @@ draft: false
 **Ensemble density-functional theory of electrons and nuclei**
 
 ### Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
-**Can excited states be computed using highly localized orbitals?**
+**Economical Models for Electron Densities**
 
 ### Tim Gould (Griffith U, Australia) <!-- t.gould@griffith.edu.au -->
 **Electronic structure of excited states from ensemble density functional theory**
