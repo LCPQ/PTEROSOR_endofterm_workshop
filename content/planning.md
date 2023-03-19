@@ -36,9 +36,9 @@ draft: false
 | 16:30 - 17.00 | Xavier Blase - GW and Bethe-Salpeter calculations embedded in very large scale dielectric environment |
 | 17:00 - 17.30 | Alexander Sokolov - New multireference approaches for electron correlation and spin–orbit coupling in excited states and spectra |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail! & Poster      |
+| 17:30 - 18:30 | Cocktail & Poster      |
 |               |                 | 
-| 19:30 - 22:30 | [Dinner](https://www.chez-navarre.fr)!!        | 
+| 19:30 - 22:30 | [Dinner](https://www.chez-navarre.fr)        | 
 |               |                 | 
 
 # Wednesday, April 5, 2023
@@ -72,9 +72,9 @@ draft: false
 | 16:30 - 17.00 | Andreea Filip - Quantum Monte Carlo Ideas for Near-Term Quantum Computing Algorithms |
 | 17:00 - 17.30 | Emmanuel Fromager - Ensemble density-functional theory of electrons and nuclei |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail! & Poster       |
+| 17:30 - 18:30 | Cocktail & Poster       |
 |               |                 | 
-| 19:30 - 22:30 | [Dinner](http://www.lemoai.com)!!        | 
+| 19:30 - 22:30 | [Dinner](http://www.lemoai.com)        | 
 |               |                 | 
 
 # Thursday, April 6, 2023
@@ -108,7 +108,7 @@ draft: false
 | 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
 | 17:00 - 17.30 | Peter Gill- Economical Models for Electron Densities |
 |               |                 | 
-| 17:30 - 18:30 | Good bye Cocktail! |
+| 17:30 - 18:30 | Good bye Cocktail |
 |               |                 |
 
 
