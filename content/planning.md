@@ -38,7 +38,7 @@ draft: false
 |               |                 | 
 | 17:30 - 18:30 | Cocktail! & Poster      |
 |               |                 | 
-| 19:30 - 22:30 | Dinner!!        | 
+| 19:30 - 22:30 | [Dinner](https://www.chez-navarre.fr)!!        | 
 |               |                 | 
 
 # Wednesday, April 5, 2023
@@ -74,7 +74,7 @@ draft: false
 |               |                 | 
 | 17:30 - 18:30 | Cocktail! & Poster       |
 |               |                 | 
-| 19:30 - 22:30 | Dinner!!        | 
+| 19:30 - 22:30 | [Dinner](http://www.lemoai.com)!!        | 
 |               |                 | 
 
 # Thursday, April 6, 2023
