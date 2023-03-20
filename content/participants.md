@@ -14,7 +14,7 @@ draft: false
 1. Katharina Boguslawski (Nicolaus Copernicus U, Poland)  <!-- k.boguslawski@fizyka.umk.pl -->
 1. George Booth (King's College, UK) <!-- george.booth@kcl.ac.uk -->
 1. Andreea Filip (Cambridge, UK) <!-- maf63@cam.ac.uk  -->
-1. Claudia Filippi (U of Twente, Netherland) <!-- c.filippi@utwente.nl -->
+1. Claudia Filippi (U of Twente, Netherlands) <!-- c.filippi@utwente.nl -->
 1. Emmanuel Fromager (U of Strasbourg, France) <!-- fromagere@unistra.fr -->
 1. Peter Gill (U of Sydney, Australia) <!-- p.gill@sydney.edu.au -->
 1. Tim Gould (Griffith U, Australia) <!-- t.gould@griffith.edu.au -->
