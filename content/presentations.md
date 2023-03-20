@@ -58,7 +58,7 @@ draft: false
 ### Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
 **Density functional calculations of excited states with orbital optimization using saddle point search methods**
 
-### Eduard Matito (Donostia, Spain) <!-- ematito@gmail.com -->
+### Eduard Matito (DIPC, Spain) <!-- ematito@gmail.com -->
 **How reliable are modern density functional approximations to simulate vibrational spectroscopies?**
 
 ### Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
