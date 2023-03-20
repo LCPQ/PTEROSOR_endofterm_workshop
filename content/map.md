@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-The conference will be held in the Auditorium of [Le Village](https://www.levillagebyca-toulouse-evenement.fr) near the city center of Toulouse.
+The conference will be held in the Auditorium of [Le Village](https://www.levillagebyca-toulouse-evenement.fr) near the city center of Toulouse (local contact [Tallulah Finch](tallulah@miharu.fr)).
 The address is [31 Allée Jules Guesde 31000 TOULOUSE](https://goo.gl/maps/eq8ePEmZT8xeQbii9).
 <br><br>
 <img src="/img/LeVillage1.jpg" width="600">
