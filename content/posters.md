@@ -19,9 +19,6 @@ draft: false
 ### Gabriele Riva (U of Toulouse, France) 
 **Photoemission spectroscopy from the three-body Green's function**
 
-### Fabris Kossoski (U of Toulouse, France)
-**State-specific configuration interaction for excited states**
-
 ### Raul Quintero (U of Toulouse, France)
 **Equation Generator for Equation-of-Motion Coupled Cluster Assisted by Computer Algebra System**
 

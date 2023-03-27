@@ -40,9 +40,6 @@ draft: false
 ### Emmanuel Giner (Sorbonne U, France) <!-- emmanuel.giner@lct.jussieu.fr -->
 **Transcorrelation made feasible**
 
-### So Hirata (U of Illinois, US) <!-- sohirata@illinois.edu -->
-**Finite-temperature many-body perturbation theory for electrons and its low-temperature catastrophe**
-
 ### Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
 **On the two-electron nature of excited states**
 
@@ -51,6 +48,9 @@ draft: false
 
 ### Thomas Jagau (KU Leuven, Belgium) 
 **Describing unbound electrons by complex-valued energies**
+
+### Fabris Kossoski (U of Toulouse, France)
+**State-specific configuration interaction for excited states**
 
 ### Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 **Variational Theory of Charge Excitations in Solids Coupled to Lattice Vibrations**

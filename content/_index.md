@@ -37,10 +37,10 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Peter Gill 
 * Tim Gould
 * Emmanuel Giner 
-* So Hirata 
 * Joshua Hollett 
 * Denis Jacquemin 
 * Thomas Jagau 
+* Fabris Kossoski
 * Joohno Lee 
 * Gianluca Levi 
 * Eduard Matito 
