@@ -44,7 +44,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Joohno Lee 
 * Gianluca Levi 
 * Eduard Matito 
-* Nick Mayhall 
 * Carlos Mejuto Zaera
 * Eric Neuscamman
 * Kasia Pernal 
