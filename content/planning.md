@@ -19,7 +19,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Nick Mayhall - Excited state calculations with Tensor Product State Selected CI (TPSCI) |
+| 11:00 - 11:30 | Emmanuel Giner - Bi-orthonormal framework and selected CI for transcorrelation |
 | 11:30 - 12:00 | Gianluca Levi - Density functional calculations of excited states with orbital optimization using saddle point search methods |
 | 12:00 - 12:30 | Joohno Lee - Variational Theory of Charge Excitations in Solids Coupled to Lattice Vibrations |
 |               |                 |
@@ -91,7 +91,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Emmanuel Giner - Transcorrelation made feasible |
+| 11:00 - 11:30 | Speaker - Title
 | 11:30 - 12:00 | Kasia Pernal - Excited state energy calculation with wavefunction-adiabatic-connection methods |
 | 12:00 - 12:30 | Eduard Matito - How reliable are modern density functional approximations to simulate vibrational spectroscopies? |
 |               |                 |
