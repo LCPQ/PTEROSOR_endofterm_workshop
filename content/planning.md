@@ -91,7 +91,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Speaker - Title
+| 11:00 - 11:30 | Anthony Scemama - TREXIO: user-friendly I-O library for quantum chemists |
 | 11:30 - 12:00 | Kasia Pernal - Excited state energy calculation with wavefunction-adiabatic-connection methods |
 | 12:00 - 12:30 | Eduard Matito - How reliable are modern density functional approximations to simulate vibrational spectroscopies? |
 |               |                 |
@@ -104,7 +104,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Josh Hollett- On the two-electron nature of excited states |
+| 16:00 - 16:30 | Joshua Hollett - On the two-electron nature of excited states |
 | 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
 | 17:00 - 17.30 | Peter Gill- Economical Models for Electron Densities |
 |               |                 | 
