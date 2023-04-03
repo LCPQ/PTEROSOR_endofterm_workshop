@@ -37,9 +37,6 @@ draft: false
 ### Vijay Gopal Chilkuri (Aix Marseille U, France)
 **Code generator for the evaluation of arbitrary matrix-elements for unitary group adapted wavefunctions**
 
-### Anthony Scemama (U of Toulouse, France)
-**TREXIO: user-friendly I-O library for quantum chemists**
-
 ### Yorick Schmerwitz (U of Iceland)
 **Calculations of Excited Electronic States by Converging on Saddle Points Using Generalized Mode Following**
 
