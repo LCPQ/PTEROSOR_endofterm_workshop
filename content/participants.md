@@ -25,7 +25,6 @@ draft: false
 1. Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 1. Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
 1. Eduard Matito (DIPC, Spain) <!-- ematito@gmail.com -->
-1. Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
 1. Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it -->
 1. Eric Neuscamman (Berkeley, US) <!-- eric.neuscamman@gmail.com -->
 1. Kasia Pernal (Lodz U, Poland)<!-- katarzyna.pernal@p.lodz.pl -->

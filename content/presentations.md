@@ -61,9 +61,6 @@ draft: false
 ### Eduard Matito (DIPC, Spain) <!-- ematito@gmail.com -->
 **How reliable are modern density functional approximations to simulate vibrational spectroscopies?**
 
-### Nick Mayhall (Virginia Tech, US) <!-- nmayhall@vt.edu -->
-**Excited state calculations with Tensor Product State Selected CI (TPSCI)**
-
 ### Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it-->
 **Self-consistency in GWΓ formalism leading to quasiparticle-quasiparticle couplings**
 
@@ -78,6 +75,9 @@ draft: false
 
 ### Pina Romaniello (U of Toulouse, France) <!-- pina.romaniello@gmail.com -->
 **Photoemission spectroscopy from the three-body Green's function**
+
+### Anthony Scemama (U of Toulouse, France) <!-- scemama@irsamc.uspt-tlse.fr -->
+**TREXIO: user-friendly I-O library for quantum chemists**
 
 ### Sandeep Sharma (U of Colorado, US) <!-- sandeep.sharma@colorado.edu -->
 **Efficient hybrid DFT for periodic systems**

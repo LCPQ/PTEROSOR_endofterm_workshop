@@ -49,6 +49,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Kasia Pernal 
 * Lucia Reining 
 * Pina Romaniello 
+* Anthony Scemama
 * Sandeep Sharma 
 * Alexander Sokolov 
 * Alex Thom 
