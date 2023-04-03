@@ -30,7 +30,7 @@ draft: false
 | 14:00 - 14:30 | Lucia Reining - About the use of model results to design functionals |
 | 14:30 - 15.00 | Timothy Berkelbach - Excitations in solids with EOM-CCSD: Where do we stand? |
 |               |                 | 
-| 15:30 - 16:00 | Coffee break    |
+| 15:00 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | Pina Romaniello - Photoemission spectroscopy from the three-body Green's function |
 | 16:30 - 17.00 | Xavier Blase - GW and Bethe-Salpeter calculations embedded in very large scale dielectric environment |
@@ -66,7 +66,7 @@ draft: false
 | 14:00 - 14:30 | Claudia Filippi - Targeting excited states with quantum Monte Carlo |
 | 14:30 - 15.00 | Eric Neuscamman - New developments in excited-state-specific correlation methods |
 |               |                 | 
-| 15:30 - 16:00 | Coffee break    |
+| 15:00 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | George Booth - A fresh perspective on Green's function methods |
 | 16:30 - 17.00 | Andreea Filip - Quantum Monte Carlo Ideas for Near-Term Quantum Computing Algorithms |
@@ -102,7 +102,7 @@ draft: false
 | 14:00 - 14:30 | Katharina Boguslawski - Targeting excited states with simplified coupled cluster methods |
 | 14:30 - 15.00 | Alex Thom - Excited States from holomorphic NOCI |
 |               |                 | 
-| 15:30 - 16:00 | Coffee break    |
+| 15:00 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | Joshua Hollett - On the two-electron nature of excited states |
 | 16:30 - 17.00 | Tim Gould - Electronic structure of excited states from ensemble density functional theory |
