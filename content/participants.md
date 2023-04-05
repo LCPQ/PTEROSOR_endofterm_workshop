@@ -22,7 +22,7 @@ draft: false
 1. Joshua Hollett (U of Winnipeg, Canada) <!-- j.hollett@uwinnipeg.ca -->
 1. Denis Jacquemin (U of Nantes, France) <!-- Denis.Jacquemin@univ-nantes.fr -->
 1. Thomas Jagau (KU Leuven, Belgium) <!-- thomas.jagau@kuleuven.be -->
-1. Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
+1. Joonho Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 1. Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->
 1. Eduard Matito (DIPC, Spain) <!-- ematito@gmail.com -->
 1. Carlos Mejuto Zaera (SISSA, Italy) <!-- cmejutoz@sissa.it -->

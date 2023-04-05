@@ -52,7 +52,7 @@ draft: false
 ### Fabris Kossoski (U of Toulouse, France)
 **State-specific configuration interaction for excited states**
 
-### Joohno Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
+### Joonho Lee (Columbia U, US) <!-- linusjoonho@gmail.com -->
 **Variational Theory of Charge Excitations in Solids Coupled to Lattice Vibrations**
 
 ### Gianluca Levi (U of Iceland, Iceland) <!-- giale@hi.is -->

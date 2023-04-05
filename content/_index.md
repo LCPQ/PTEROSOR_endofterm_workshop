@@ -41,7 +41,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 * Denis Jacquemin 
 * Thomas Jagau 
 * Fabris Kossoski
-* Joohno Lee 
+* Joonho Lee 
 * Gianluca Levi 
 * Eduard Matito 
 * Carlos Mejuto Zaera
