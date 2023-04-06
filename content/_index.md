@@ -6,6 +6,7 @@ draft: false
 
 ## NEWS
 
+* **Apr 2023:** The workshop is over! Thank you all for coming.
 * **Mar 2023:** Final program and list of posters are available.
 * **Feb 2023:** All the planets are lined up! See you in April and safe travel.
 * **Jan 2023:** A preliminary version of the program is available.
