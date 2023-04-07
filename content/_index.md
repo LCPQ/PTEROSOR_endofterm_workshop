@@ -59,7 +59,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 
 ## SOME PICTURES
 
-<img src="/img/conf.jpg" width="600">
 <img src="/img/public.jpg" width="600">
 <img src="/img/AFilip.jpg" width="600">
 <img src="/img/AScemama.jpg" width="600">
