@@ -3,10 +3,10 @@ index cad4250..b9c9e51 100644
 --- a/config.toml
 +++ b/config.toml
 @@ -1,5 +1,5 @@
--baseURL = "http://localhost:1313/PTEROSOR_midterm_workshop/"
--#baseURL = "https://pfloos.github.io/PTEROSOR_midterm_workshop/"
-+#baseURL = "http://localhost:1313/PTEROSOR_midterm_workshop/"
-+baseURL = "https://pfloos.github.io/PTEROSOR_midterm_workshop/"
+-baseURL = "http://localhost:1313/PTEROSOR_endofterm_workshop/"
+-#baseURL = "https://pfloos.github.io/PTEROSOR_endofterm_workshop/"
++#baseURL = "http://localhost:1313/PTEROSOR_endofterm_workshop/"
++baseURL = "https://pfloos.github.io/PTEROSOR_endofterm_workshop/"
  canonifyurls  = true
  languageCode = "en-us"
  DefaultContentLanguage = "en"
