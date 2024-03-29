@@ -1,17 +1,17 @@
-baseURL = "http://localhost:1313/PTEROSOR_midterm_workshop/"
-#baseURL = "https://pfloos.github.io/PTEROSOR_midterm_workshop/"
+baseURL = "http://localhost:1313/PTEROSOR_endofterm_workshop/"
+#baseURL = "https://pfloos.github.io/PTEROSOR_endofterm_workshop/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)"
+title = "2nd WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 8-10 Apr 2025)"
 [Params]
   hometitle = "EMERGING EXCITED-STATE METHODS IN ELECTRONIC STRUCTURE"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/conf.jpg"
-  desc = "WORKSHOP ON EXCITED-STATE METHODS"
+  desc = "2nd WORKSHOP ON EXCITED-STATE METHODS"
 
 [markup]
   [markup.goldmark]
