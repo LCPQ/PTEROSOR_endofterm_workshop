@@ -17,7 +17,4 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 | ------------------------------------------------------------------------ | ----- |
 | <img width="200" style="vertical-align: middle;" src="/img/CNRS.png" />  | CNRS  |
 | <img width="300" style="vertical-align: middle;" src="/img/LCPQ.png" />  | LCPQ  |
-| <img width="200" style="vertical-align: middle;" src="/img/RSC.png" />   | RSC   |
-| <img width="300" style="vertical-align: middle;" src="/img/FERMI.png" /> | FERMI |
-| <img width="300" style="vertical-align: middle;" src="/img/UPS.png" />   | UPS   |
 |                                                                          |       |
