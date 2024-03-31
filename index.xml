@@ -1,75 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)</title>
-    <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/</link>
-    <description>Recent content in Home on WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 4-6 Apr 2023)</description>
+    <title>Home on 2nd WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 8-10 Apr 2025)</title>
+    <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/</link>
+    <description>Recent content in Home on 2nd WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 8-10 Apr 2025)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>loos@irsamc.ups-tlse.fr (PTEROSOR)</managingEditor>
-    <webMaster>loos@irsamc.ups-tlse.fr (PTEROSOR)</webMaster><atom:link href="https://pfloos.github.io/PTEROSOR_midterm_workshop/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>loos@irsamc.ups-tlse.fr (PTEROSOR)</webMaster>
+    <atom:link href="https://lcpq.github.io/PTEROSOR_endofterm_workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
-      <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/map/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
-      <guid>https://pfloos.github.io/PTEROSOR_midterm_workshop/map/</guid>
+      <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
+      <guid>https://lcpq.github.io/PTEROSOR_endofterm_workshop/map/</guid>
       <description>The conference will be held in the Auditorium of Le Village near the city center of Toulouse (local contact Tallulah Finch). The address is 31 Allée Jules Guesde 31000 TOULOUSE. Toulouse is an amazing city with many monuments to visit and food to taste (like cassoulet!). For more info, visit Tourism in Toulouse. Here is a selection of monuments you do not want to miss. Note that there are all within walking distance from the workshop venue:</description>
     </item>
-    
     <item>
       <title>Participants</title>
-      <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/participants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
-      <guid>https://pfloos.github.io/PTEROSOR_midterm_workshop/participants/</guid>
+      <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
+      <guid>https://lcpq.github.io/PTEROSOR_endofterm_workshop/participants/</guid>
       <description>List of participants Giuseppe Barca (Australian National University, Australia) Stefano Battaglia (U of Zurich, Switzerland) Timothy Berkelbach (Columbia U, US) Xavier Blase (Institut Neel, France) Katharina Boguslawski (Nicolaus Copernicus U, Poland) George Booth (King&amp;rsquo;s College, UK) Andreea Filip (Cambridge, UK) Claudia Filippi (U of Twente, Netherlands) Emmanuel Fromager (U of Strasbourg, France) Peter Gill (U of Sydney, Australia) Tim Gould (Griffith U, Australia) Emmanuel Giner (Sorbonne U, France) Joshua Hollett (U of Winnipeg, Canada) Denis Jacquemin (U of Nantes, France) Thomas Jagau (KU Leuven, Belgium) Joonho Lee (Columbia U, US) Gianluca Levi (U of Iceland, Iceland) Eduard Matito (DIPC, Spain) Carlos Mejuto Zaera (SISSA, Italy) Eric Neuscamman (Berkeley, US) Kasia Pernal (Lodz U, Poland)</description>
     </item>
-    
     <item>
       <title>Posters</title>
-      <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/posters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
-      <guid>https://pfloos.github.io/PTEROSOR_midterm_workshop/posters/</guid>
-      <description>Abdallah Ammar (U of Toulouse, France) Transcorrelated Configuration Interaction applied to excited states of molecules
-Filip Cernatic (U of Strasbourg, France) Quantum embedding approach for multiple electronic states using the Householder transformation
-Florian Matz (KU Leuven, Belgium) Theoretical Treatment of Molecular Auger Decay with Non-Hermitian Quantum Chemistry
-David Amblard (Institut Neel, France) Optimal representation for electronic susceptibility
-Gabriele Riva (U of Toulouse, France) Photoemission spectroscopy from the three-body Green&amp;rsquo;s function</description>
+      <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
+      <guid>https://lcpq.github.io/PTEROSOR_endofterm_workshop/posters/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Presentations</title>
-      <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/presentations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
-      <guid>https://pfloos.github.io/PTEROSOR_midterm_workshop/presentations/</guid>
-      <description>Giuseppe Barca (Australian National University, Australia) Accelerating quantum chemistry by orders of magnitude with the EXtreme-scale Electronic Structure System (EXESS)
-Stefano Battaglia (U of Zurich, Switzerland) New variants of the CASPT2 method
-Timothy Berkelbach (Columbia U, US) Excitations in solids with EOM-CCSD: Where do we stand?
-Xavier Blase (Institut Neel, France) GW and Bethe-Salpeter calculations embedded in very large scale dielectric environment
-Katharina Boguslawski (Nicolaus Copernicus U, Poland) Targeting excited states with simplified coupled cluster methods</description>
+      <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
+      <guid>https://lcpq.github.io/PTEROSOR_endofterm_workshop/presentations/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Program</title>
-      <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
-      <guid>https://pfloos.github.io/PTEROSOR_midterm_workshop/planning/</guid>
-      <description>Tuesday, April 4, 2023 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 1 Chair: Pierre-Francois Loos 9:30 - 10:00 Giuseppe Barca - Accelerating quantum chemistry by orders of magnitude with the EXtreme-scale Electronic Structure System (EXESS) 10:00 - 10:30 Fabris Kossoski - State-specific configuration interaction for excited states 10:30 - 11:00 Coffee break 11:00 - 11:30 Emmanuel Giner - Bi-orthonormal framework and selected CI for transcorrelation 11:30 - 12:00 Gianluca Levi - Density functional calculations of excited states with orbital optimization using saddle point search methods 12:00 - 12:30 Joohno Lee - Variational Theory of Charge Excitations in Solids Coupled to Lattice Vibrations 12:30 - 14:00 Lunch break &amp;amp; Poster SESSION 2 Chair: Raul Quintero 14:00 - 14:30 Lucia Reining - About the use of model results to design functionals 14:30 - 15.</description>
+      <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
+      <guid>https://lcpq.github.io/PTEROSOR_endofterm_workshop/planning/</guid>
+      <description>Tuesday, April 8, 2025 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 1 Chair: Pierre-Francois Loos 9:30 - 10:00 10:00 - 10:30 10:30 - 11:00 Coffee break 11:00 - 11:30 11:30 - 12:00 12:00 - 12:30 12:30 - 14:00 Lunch break &amp;amp; Poster SESSION 2 Chair: 14:00 - 14:30 14:30 - 15:00 15:00 - 15:30 15:30 - 16:00 Coffee break 16:00 - 16:30 16:30 - 17.00 17:00 - 17.30 17:30 - 18:30 Cocktail &amp;amp; Poster 19:30 - 22:30 Dinner Wednesday, April 9, 2025 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 3 Chair: 9:30 - 10:00 10:00 - 10:30 10:30 - 11:00 Coffee break 11:00 - 11:30 11:30 - 12:00 12:00 - 12:30 12:30 - 14:00 Lunch break &amp;amp; Poster SESSION 4 Chair: Anthony Scemama 14:00 - 14:30 14:30 - 15:00 15:00 - 15:30 15:30 - 16:00 Coffee break 16:00 - 16:30 16:30 - 17.</description>
     </item>
-    
     <item>
       <title>Sponsors</title>
-      <link>https://pfloos.github.io/PTEROSOR_midterm_workshop/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
-      <guid>https://pfloos.github.io/PTEROSOR_midterm_workshop/sponsors/</guid>
-      <description>MAIN SPONSOR This workshop has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 863481).
-OTHER SPONSORS CNRS LCPQ RSC FERMI UPS </description>
+      <link>https://lcpq.github.io/PTEROSOR_endofterm_workshop/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>loos@irsamc.ups-tlse.fr (PTEROSOR)</author>
+      <guid>https://lcpq.github.io/PTEROSOR_endofterm_workshop/sponsors/</guid>
+      <description>MAIN SPONSOR This workshop has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 863481).&#xA;OTHER SPONSORS CNRS LCPQ </description>
     </item>
-    
   </channel>
 </rss>
