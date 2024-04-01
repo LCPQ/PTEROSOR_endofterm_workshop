@@ -19,7 +19,7 @@ Processes related to electronically excited states are central in chemistry, phy
 This workshop has received funding from the [European Research Council (ERC)](https://erc.europa.eu)
 under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481).
 
-## INVITED SPEAKERS
+## CONFIRMED INVITED SPEAKERS
 
 - Fabien Bruneval
 - Hugh Burton
