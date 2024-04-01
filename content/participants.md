@@ -7,15 +7,21 @@ draft: false
 
 # List of participants
 
+1. Abdallah Ammar <!-- aammar@irsamc.ups-tlse.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
 1. Eric Cances <!-- cances@cermics.enpc.fr -->
+1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Arno Forster (TBC) <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
 1. Emmanuel Giner <!-- giner.emmanuel@gmail.com -->
+1. Fabris Kossoski <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. Mathieu Lewin <!-- mathieu.lewin@math.cnrs.fr -->
+1. Antoine Marie <!-- amarie@irsamc.ups-tlse.fr -->
 1. Nick Mayhall <!-- mathieu.lewin@math.cnrs.fr -->
+1. Enzo Monino <!-- monino.enzo@gmail.com -->
+1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Bruno Senjean <!-- bsenjean@gmail.com -->
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
