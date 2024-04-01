@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/PTEROSOR_endofterm_workshop/"
-#baseURL = "https://pfloos.github.io/PTEROSOR_endofterm_workshop/"
+#baseURL = "https://lcpq.github.io/PTEROSOR_endofterm_workshop/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
