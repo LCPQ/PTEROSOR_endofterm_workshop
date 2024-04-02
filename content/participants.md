@@ -12,6 +12,7 @@ draft: false
 1. Hugh Burton <!-- hgaburton@gmail.com -->
 1. Eric Cances <!-- cances@cermics.enpc.fr -->
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
+1. Stijn De Baerdemacker (TBC) <!-- stijn.debaerdemacker@unb.ca -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Arno Forster (TBC) <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
@@ -24,6 +25,7 @@ draft: false
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Bruno Senjean <!-- bsenjean@gmail.com -->
+1. James Shee <!-- js327@rice.edu -->
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
 1. Saad Yalouz <!-- vlcek@chem.ucsb.edu -->
 

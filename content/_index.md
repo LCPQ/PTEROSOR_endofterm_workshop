@@ -33,6 +33,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Nick Mayhall
 - Elisa Rebolini
 - Bruno Senjean
+- James Shee
 - Vojtečh Vlcěk
 - Saad Yalouz
 
