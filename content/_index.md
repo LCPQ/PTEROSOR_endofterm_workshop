@@ -35,6 +35,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Bruno Senjean
 - James Shee
 - Vojtečh Vlcěk
+- Stefan Vuckovic
 - Saad Yalouz
-
 

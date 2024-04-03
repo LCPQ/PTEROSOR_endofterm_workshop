@@ -27,6 +27,7 @@ draft: false
 1. Bruno Senjean <!-- bsenjean@gmail.com -->
 1. James Shee <!-- js327@rice.edu -->
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
+1. Stefan Vuckovic <!-- stefanvuckovic1@gmail.com -->
 1. Saad Yalouz <!-- vlcek@chem.ucsb.edu -->
 
 # Local organisers 
