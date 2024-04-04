@@ -29,6 +29,8 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Thomas Duget
 - Arno Forster (TBC)
 - Sara Giarrusso
+- Andre Laestadius
+- Susi Lethola
 - Mathieu Lewin
 - Nick Mayhall
 - Elisa Rebolini
