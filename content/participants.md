@@ -28,6 +28,7 @@ draft: false
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Bruno Senjean <!-- bsenjean@gmail.com -->
 1. James Shee <!-- js327@rice.edu -->
+1. Stella Stopkowicz <!-- stella.stopkowicz@uni-saarland.de -->
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
 1. Stefan Vuckovic <!-- stefanvuckovic1@gmail.com -->
 1. Saad Yalouz <!-- vlcek@chem.ucsb.edu -->
