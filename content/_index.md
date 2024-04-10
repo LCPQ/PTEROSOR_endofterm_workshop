@@ -26,6 +26,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Hugh Burton
 - Eric Cances
 - Stijn De Baerdemacker (TBC)
+- Eugene De Prince 
 - Thomas Duget
 - Arno Forster (TBC)
 - Sara Giarrusso

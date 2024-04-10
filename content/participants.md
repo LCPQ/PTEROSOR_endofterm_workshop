@@ -13,6 +13,7 @@ draft: false
 1. Eric Cances <!-- cances@cermics.enpc.fr -->
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
 1. Stijn De Baerdemacker (TBC) <!-- stijn.debaerdemacker@unb.ca -->
+1. Eugene De Prince <!-- adeprince@fsu.edu -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Arno Forster (TBC) <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
