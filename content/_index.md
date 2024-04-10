@@ -28,6 +28,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Stijn De Baerdemacker (TBC)
 - Eugene De Prince 
 - Thomas Duget
+- Fabian Faulstich 
 - Arno Forster (TBC)
 - Sara Giarrusso
 - Andre Laestadius
