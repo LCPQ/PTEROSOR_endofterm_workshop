@@ -34,6 +34,7 @@ draft: false
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
 1. Stefan Vuckovic <!-- stefanvuckovic1@gmail.com -->
 1. Saad Yalouz <!-- vlcek@chem.ucsb.edu -->
+1. Dominika Zgid <!-- dominika.zgid@gmail.com -->
 
 # Local organisers 
 
