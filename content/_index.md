@@ -32,6 +32,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Andre Laestadius
 - Susi Lethola
 - Mathieu Lewin
+- Chenyang Li
 - Nick Mayhall
 - Elisa Rebolini
 - Bruno Senjean
