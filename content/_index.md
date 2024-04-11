@@ -22,26 +22,27 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 
 ## CONFIRMED INVITED SPEAKERS
 
-- Fabien Bruneval
-- Hugh Burton
-- Eric Cances
-- Stijn De Baerdemacker (TBC)
-- Eugene De Prince 
-- Thomas Duget
-- Fabian Faulstich 
-- Arno Forster (TBC)
-- Sara Giarrusso
-- Andre Laestadius
-- Susi Lethola
-- Mathieu Lewin
-- Chenyang Li
-- Nick Mayhall
-- Elisa Rebolini
-- Bruno Senjean
-- James Shee
-- Stella Stopkowicz
-- Vojtečh Vlcěk
-- Stefan Vuckovic
-- Saad Yalouz
-- Dominika Zgid
+- Fabien Bruneval (CEA, France)
+- Hugh Burton (Cambridge, UK)
+- Eric Cances (Ecole des Ponts ParisTech, France)
+- Stijn De Baerdemacker (TBC) (U of New Brunswick, Canada)
+- Eugene De Prince (Florida State U, US)
+- Thomas Duget (CEA, France)
+- Fabian Faulstich (Rensselaer, US)
+- Arno Forster (TBC) (Vrije U, Netherlands)
+- Sara Giarrusso (Paris-Saclay U, France)
+- Ida-Marie Høyvik (Norwegian U, Norway)
+- Andre Laestadius (OsloMet, Norway)
+- Susi Lethola (U of Helsinki, Finland)
+- Mathieu Lewin (U Paris Dauphine, France)
+- Chenyang Li (Beijing Normal U, China)
+- Nick Mayhall (Virginia Tech, US)
+- Elisa Rebolini (Institut Laue Langevin, France)
+- Bruno Senjean (U of Montpellier, France)
+- James Shee (Rice U, US)
+- Stella Stopkowicz (U of Saarlandes, Germany)
+- Vojtečh Vlcěk (UC Santa Barbara, US)
+- Stefan Vuckovic (U of Freiburg, Switzerland)
+- Saad Yalouz (U of Strasbourg, France)
+- Dominika Zgid (U of Michigan, US)
 

@@ -18,6 +18,7 @@ draft: false
 1. Arno Forster (TBC) <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
 1. Emmanuel Giner <!-- giner.emmanuel@gmail.com -->
+1. Ida-Marie Høyvik <!-- ida-marie.hoyvik@ntnu.no -->
 1. Fabris Kossoski <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. Andre Laestadius <!-- andre.laestadius@kjemi.uio.no -->
 1. Susi Lethola <!-- susi.lehtola@helsinki.fi -->
