@@ -31,6 +31,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Fabian Faulstich (Rensselaer, US)
 - Arno Forster (TBC) (Vrije U, Netherlands)
 - Sara Giarrusso (Paris-Saclay U, France)
+- Trygve Helgaker (U of Oslo, Norway)
 - Ida-Marie Høyvik (Norwegian U, Norway)
 - Andre Laestadius (OsloMet, Norway)
 - Susi Lethola (U of Helsinki, Finland)
