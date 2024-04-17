@@ -36,6 +36,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Susi Lethola (U of Helsinki, Finland)
 - Mathieu Lewin (U Paris Dauphine, France)
 - Chenyang Li (Beijing Normal U, China)
+- Filippo Lipparini (U of Pisa, Italy)
 - Nick Mayhall (Virginia Tech, US)
 - Elisa Rebolini (Institut Laue Langevin, France)
 - Bruno Senjean (U of Montpellier, France)

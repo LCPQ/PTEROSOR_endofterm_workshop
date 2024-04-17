@@ -24,6 +24,7 @@ draft: false
 1. Susi Lethola <!-- susi.lehtola@helsinki.fi -->
 1. Mathieu Lewin <!-- mathieu.lewin@math.cnrs.fr -->
 1. Chenyang Li <!-- chenyang.li@bnu.edu.cn -->
+1. Filippo Lippaniri <!-- filippo.lipparini@unipi.it -->
 1. Antoine Marie <!-- amarie@irsamc.ups-tlse.fr -->
 1. Nick Mayhall <!-- mathieu.lewin@math.cnrs.fr -->
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
