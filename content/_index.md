@@ -33,6 +33,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Sara Giarrusso (Paris-Saclay U, France)
 - Andreas Gruneis (TU Wien, Austria)
 - Trygve Helgaker (U of Oslo, Norway)
+- Thomas Henderson (Rice U, US)
 - Ida-Marie Høyvik (Norwegian U, Norway)
 - Andre Laestadius (OsloMet, Norway)
 - Susi Lethola (U of Helsinki, Finland)

@@ -20,6 +20,7 @@ draft: false
 1. Emmanuel Giner <!-- giner.emmanuel@gmail.com -->
 1. Andreas Gruneis <!-- andreas.grueneis@tuwien.ac.at -->
 1. Trygve Helgaker <!-- t.u.helgaker@kjemi.uio.no -->
+1. Thomas Henderson <!-- th4@rice.edu -->
 1. Ida-Marie Høyvik <!-- ida-marie.hoyvik@ntnu.no -->
 1. Fabris Kossoski <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. Andre Laestadius <!-- andre.laestadius@kjemi.uio.no -->
