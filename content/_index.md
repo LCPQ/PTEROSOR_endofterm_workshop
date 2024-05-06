@@ -28,6 +28,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Stijn De Baerdemacker (TBC) (U of New Brunswick, Canada)
 - Eugene De Prince (Florida State U, US)
 - Thomas Duget (CEA, France)
+- Janus Eriksen (DTU, Denmark)
 - Fabian Faulstich (Rensselaer, US)
 - Arno Forster (TBC) (Vrije U, Netherlands)
 - Sara Giarrusso (Paris-Saclay U, France)
