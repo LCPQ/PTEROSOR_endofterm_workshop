@@ -30,7 +30,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Thomas Duget (CEA, France)
 - Janus Eriksen (DTU, Denmark)
 - Fabian Faulstich (Rensselaer, US)
-- Arno Forster (TBC) (Vrije U, Netherlands)
+- Arno Forster (Vrije U, Netherlands)
 - Sara Giarrusso (Paris-Saclay U, France)
 - Andreas Gruneis (TU Wien, Austria)
 - Trygve Helgaker (U of Oslo, Norway)
