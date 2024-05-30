@@ -16,7 +16,7 @@ draft: false
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Janus Eriksen <!-- anus@kemi.dtu.dk -->
 1. Fabian Faulstich <!-- faulsf@rpi.edu -->
-1. Arno Forster (TBC) <!-- a.t.l.foerster@vu.nl -->
+1. Arno Forster <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
 1. Emmanuel Giner <!-- giner.emmanuel@gmail.com -->
 1. Andreas Gruneis <!-- andreas.grueneis@tuwien.ac.at -->
