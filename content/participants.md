@@ -14,7 +14,7 @@ draft: false
 1. Stijn De Baerdemacker (TBC) <!-- stijn.debaerdemacker@unb.ca -->
 1. Eugene De Prince <!-- adeprince@fsu.edu -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
-1. Janus Eriksen <!-- anus@kemi.dtu.dk -->
+1. Janus Eriksen <!-- janus@kemi.dtu.dk -->
 1. Fabian Faulstich <!-- faulsf@rpi.edu -->
 1. Arno Forster <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
@@ -31,6 +31,7 @@ draft: false
 1. Filippo Lippaniri <!-- filippo.lipparini@unipi.it -->
 1. Antoine Marie <!-- amarie@irsamc.ups-tlse.fr -->
 1. Nick Mayhall <!-- mathieu.lewin@math.cnrs.fr -->
+1. Carlos Mejuto-Zaera <!-- cmejutoz@sissa.it -->
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
