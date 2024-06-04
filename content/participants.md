@@ -7,6 +7,7 @@ draft: false
 # List of participants
 
 1. Abdallah Ammar <!-- aammar@irsamc.ups-tlse.fr -->
+1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
 1. Eric Cances <!-- cances@cermics.enpc.fr -->
