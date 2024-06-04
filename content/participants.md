@@ -33,6 +33,7 @@ draft: false
 1. Nick Mayhall <!-- mathieu.lewin@math.cnrs.fr -->
 1. Carlos Mejuto-Zaera <!-- cmejutoz@sissa.it -->
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
+1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Bruno Senjean <!-- bsenjean@gmail.com -->
