@@ -37,6 +37,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Thomas Henderson (Rice U, US)
 - Ida-Marie Høyvik (Norwegian U, Norway)
 - Andre Laestadius (OsloMet, Norway)
+- Michal Lesiuk (Warsaw, Poland)
 - Susi Lethola (U of Helsinki, Finland)
 - Mathieu Lewin (U Paris Dauphine, France)
 - Chenyang Li (Beijing Normal U, China)
