@@ -6,6 +6,7 @@ draft: false
 
 # List of participants
 
+1. Josep Alberola <!-- albojo@alumni.uv.es -->
 1. Abdallah Ammar <!-- aammar@irsamc.ups-tlse.fr -->
 1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
