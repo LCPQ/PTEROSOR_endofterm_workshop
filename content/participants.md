@@ -28,6 +28,7 @@ draft: false
 1. Ida-Marie Høyvik <!-- ida-marie.hoyvik@ntnu.no -->
 1. Fabris Kossoski <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. Andre Laestadius <!-- andre.laestadius@kjemi.uio.no -->
+1. Nicholas Lee <!-- nicholas.lee@pmb.ox.ac.uk -->
 1. Susi Lethola <!-- susi.lehtola@helsinki.fi -->
 1. Michal Lesiuk <!-- m.lesiuk@uw.edu.pl -->
 1. Mathieu Lewin <!-- mathieu.lewin@math.cnrs.fr -->
