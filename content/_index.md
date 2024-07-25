@@ -6,12 +6,12 @@ draft: false
 
 ## NEWS
 
-* **Apr 2024:** The workshop's website is officialy up and running!
+* **Apr 2024:** The workshop's website is officially up and running!
 
 ## THE WORKSHOP
 
 Electronic structure theory has developed in many directions in recent years and a large number of new emerging methods have been developed to compute accurately excited-state energies and properties at an affordable cost.
-Processes related to electronically excited states are central in chemistry, physics, and biology, playing a key role in ubiquitous processes such as photochemistry, catalysis, and solar cell technology. However, defining an effective method that reliably provides accurate excited-state energies in every scenarios remains a major challenge in theoretical chemistry. In this workshop, we aim at discussing novel approaches to obtain excited-state energies and wave functions in molecular systems and solids. 
+Processes related to electronically excited states are central in chemistry, physics, and biology, playing a key role in ubiquitous processes such as photochemistry, catalysis, and solar cell technology. However, defining an effective method that reliably provides accurate excited-state energies in every scenario remains a major challenge in theoretical chemistry. In this workshop, we aim to discuss novel approaches to obtain excited-state energies and wave functions in molecular systems and solids. 
 The website of the first edition can be found [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
 <br><br>
 
@@ -38,7 +38,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Ida-Marie Høyvik (Norwegian U, Norway)
 - Andre Laestadius (OsloMet, Norway)
 - Michal Lesiuk (Warsaw, Poland)
-- Susi Lethola (U of Helsinki, Finland)
+- Susi Lehtola (U of Helsinki, Finland)
 - Mathieu Lewin (U Paris Dauphine, France)
 - Chenyang Li (Beijing Normal U, China)
 - Filippo Lipparini (U of Pisa, Italy)
