@@ -8,6 +8,7 @@ draft: false
 
 1. Josep Alberola <!-- albojo@alumni.uv.es -->
 1. Abdallah Ammar <!-- aammar@irsamc.ups-tlse.fr -->
+1. Timothy Berkelbach <!-- tcb2112@columbia.edu -->
 1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
@@ -20,6 +21,7 @@ draft: false
 1. Fabian Faulstich <!-- faulsf@rpi.edu -->
 1. Arno Forster <!-- a.t.l.foerster@vu.nl -->
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
+1. Dorothea Golze <!-- dorothea.golze@tu-dresden.de -->
 1. Emmanuel Giner <!-- giner.emmanuel@gmail.com -->
 1. Jonas Greiner <!-- jonas.greiner@uni-mainz.de -->
 1. Andreas Gruneis <!-- andreas.grueneis@tuwien.ac.at -->
