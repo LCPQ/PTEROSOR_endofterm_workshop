@@ -22,6 +22,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 
 ## CONFIRMED INVITED SPEAKERS
 
+- Timothy Berkelbach (Columbia U, US)
 - Fabien Bruneval (CEA, France)
 - Hugh Burton (Cambridge, UK)
 - Eric Cances (Ecole des Ponts ParisTech, France)
@@ -32,6 +33,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Fabian Faulstich (Rensselaer, US)
 - Arno Forster (Vrije U, Netherlands)
 - Sara Giarrusso (Paris-Saclay U, France)
+- Dorothea Golze (U Dresden, Germany) 
 - Andreas Gruneis (TU Wien, Austria)
 - Trygve Helgaker (U of Oslo, Norway)
 - Thomas Henderson (Rice U, US)
