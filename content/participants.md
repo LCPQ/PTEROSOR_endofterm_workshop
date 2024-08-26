@@ -44,6 +44,7 @@ draft: false
 1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
+1. Gustavo Scuseria <!-- guscus@rice.edu --> 
 1. Bruno Senjean <!-- bsenjean@gmail.com -->
 1. James Shee <!-- js327@rice.edu -->
 1. Stella Stopkowicz <!-- stella.stopkowicz@uni-saarland.de -->
