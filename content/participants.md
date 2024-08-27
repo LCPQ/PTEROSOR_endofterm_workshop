@@ -41,6 +41,7 @@ draft: false
 1. Carlos Mejuto-Zaera <!-- cmejutoz@sissa.it -->
 1. Piotr Michalak <!-- p.michalak13@uw.edu.pl -->
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
+2. Jannes Nys <!--	jannes.nys@epfl.ch -->
 1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
