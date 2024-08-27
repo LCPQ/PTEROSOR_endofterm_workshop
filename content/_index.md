@@ -6,7 +6,7 @@ draft: false
 
 ## NEWS
 
-* **Aug 2024:** The list of invited speakers is complete.
+* **Sep 2024:** The list of invited speakers is complete.
 * **Apr 2024:** The workshop's website is officially up and running!
 
 ## THE WORKSHOP
