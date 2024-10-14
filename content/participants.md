@@ -13,7 +13,6 @@ draft: false
 1. Hugh Burton <!-- hgaburton@gmail.com -->
 1. Eric Cances <!-- cances@cermics.enpc.fr -->
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
-1. Stijn De Baerdemacker (TBC) <!-- stijn.debaerdemacker@unb.ca -->
 1. Eugene De Prince <!-- adeprince@fsu.edu -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Janus Eriksen <!-- janus@kemi.dtu.dk -->
@@ -40,6 +39,7 @@ draft: false
 1. Carlos Mejuto-Zaera <!-- cmejutoz@sissa.it -->
 1. Piotr Michalak <!-- p.michalak13@uw.edu.pl -->
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
+2. Jannes Nys <!--	jannes.nys@epfl.ch -->
 1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Elisa Rebolini <!-- rebolini@ill.fr -->

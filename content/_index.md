@@ -5,6 +5,7 @@ draft: false
 
 ## NEWS
 
+* **Sep 2024:** The list of invited speakers is complete.
 * **Apr 2024:** The workshop's website is officially up and running!
 
 ## THE WORKSHOP
@@ -25,7 +26,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Fabien Bruneval (CEA, France)
 - Hugh Burton (Cambridge, UK)
 - Eric Cances (Ecole des Ponts ParisTech, France)
-- Stijn De Baerdemacker (TBC) (U of New Brunswick, Canada)
 - Eugene De Prince (Florida State U, US)
 - Thomas Duget (CEA, France)
 - Janus Eriksen (DTU, Denmark)
@@ -44,6 +44,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Chenyang Li (Beijing Normal U, China)
 - Filippo Lipparini (U of Pisa, Italy)
 - Nick Mayhall (Virginia Tech, US)
+- Jannes Nys (EPFL, Switzerland)
 - Elisa Rebolini (Institut Laue Langevin, France)
 - Gustavo Scuseria (Rice U, US)
 - Bruno Senjean (U of Montpellier, France)
