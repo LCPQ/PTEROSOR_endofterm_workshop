@@ -1,6 +1,5 @@
 ---
 title: "Program"
-date: 2020-12-02 09:02
 draft: false
 ---
 
