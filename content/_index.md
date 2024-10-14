@@ -27,7 +27,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Fabien Bruneval (CEA, France)
 - Hugh Burton (Cambridge, UK)
 - Eric Cances (Ecole des Ponts ParisTech, France)
-- Stijn De Baerdemacker (TBC) (U of New Brunswick, Canada)
 - Eugene De Prince (Florida State U, US)
 - Thomas Duget (CEA, France)
 - Janus Eriksen (DTU, Denmark)
