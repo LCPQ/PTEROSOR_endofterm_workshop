@@ -48,6 +48,7 @@ draft: false
 1. James Shee <!-- js327@rice.edu -->
 1. Stella Stopkowicz <!-- stella.stopkowicz@uni-saarland.de -->
 1. Svala Sverrisdóttir <!-- svala@math.berkeley.edu -->
+1. Johannes Toelle <!-- j_toel01@uni-muenster.de -->
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
 1. Stefan Vuckovic <!-- stefanvuckovic1@gmail.com -->
 1. Saad Yalouz <!-- vlcek@chem.ucsb.edu -->

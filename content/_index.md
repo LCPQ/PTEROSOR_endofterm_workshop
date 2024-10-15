@@ -50,6 +50,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Bruno Senjean (U of Montpellier, France)
 - James Shee (Rice U, US)
 - Stella Stopkowicz (U of Saarlandes, Germany)
+- Johannes Toelle (U of Muenster, Germany)
 - Vojtečh Vlcěk (UC Santa Barbara, US)
 - Stefan Vuckovic (U of Freiburg, Switzerland)
 - Saad Yalouz (U of Strasbourg, France)
