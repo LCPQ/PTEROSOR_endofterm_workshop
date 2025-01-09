@@ -23,7 +23,7 @@ draft: false
 1. Dorothea Golze <!-- dorothea.golze@tu-dresden.de -->
 1. Jonas Greiner <!-- jongr@kemi.dtu.dk -->
 1. Andreas Gruneis <!-- andreas.grueneis@tuwien.ac.at -->
-1. Trygve Helgaker <!-- t.u.helgaker@kjemi.uio.no -->
+1. Trygve Helgaker <!-- t.u.helgaker@kjemi.uio.no --> <!-- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory -->
 1. Thomas Henderson <!-- th4@rice.edu -->
 1. Ida-Marie Høyvik <!-- ida-marie.hoyvik@ntnu.no -->
 1. Jannis Kockläuner <!-- jannis.kocklaeuner@tu-dresden.de -->
