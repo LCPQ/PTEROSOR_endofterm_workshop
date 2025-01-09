@@ -11,7 +11,7 @@ draft: false
 1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
-1. Eric Cances <!-- cances@cermics.enpc.fr -->
+1. Eric Cances <!-- cances@cermics.enpc.fr --> <!-- Direct optimization methods for CASSCF ground and excited states -->
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
 1. Eugene De Prince <!-- adeprince@fsu.edu --> <!-- Recent Developments in Two-Component Equation-of-Motion Coupled-Cluster Theory -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
