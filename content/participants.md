@@ -21,7 +21,7 @@ draft: false
 1. Sara Giarrusso <!-- sara.giarrusso@universite-paris-saclay.fr -->
 1. Emmanuel Giner <!-- giner.emmanuel@gmail.com -->
 1. Dorothea Golze <!-- dorothea.golze@tu-dresden.de -->
-1. Jonas Greiner <!-- jonas.greiner@uni-mainz.de -->
+1. Jonas Greiner <!-- jongr@kemi.dtu.dk -->
 1. Andreas Gruneis <!-- andreas.grueneis@tuwien.ac.at -->
 1. Trygve Helgaker <!-- t.u.helgaker@kjemi.uio.no -->
 1. Thomas Henderson <!-- th4@rice.edu -->
@@ -41,7 +41,7 @@ draft: false
 1. Carlos Mejuto-Zaera <!-- cmejutoz@sissa.it -->
 1. Piotr Michalak <!-- p.michalak13@uw.edu.pl -->
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
-1. Jannes Nys <!-- jannes.nys@epfl.ch -->
+1. Jannes Nys <!-- jannesnys@gmail.com -->
 1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
 1. Thomas Plaikner <!-- thomas.plaikner@tuwien.ac.at -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
@@ -55,7 +55,7 @@ draft: false
 1. Johannes Toelle <!-- j_toel01@uni-muenster.de -->
 1. Vojtečh Vlcěk <!-- vlcek@chem.ucsb.edu -->
 1. Stefan Vuckovic <!-- stefanvuckovic1@gmail.com -->
-1. Saad Yalouz <!-- vlcek@chem.ucsb.edu -->
+1. Saad Yalouz <!-- yalouzsaad@gmail.com -->
 1. Dominika Zgid <!-- dominika.zgid@gmail.com -->
 
 # Local organisers 
