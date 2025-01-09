@@ -13,7 +13,7 @@ draft: false
 1. Hugh Burton <!-- hgaburton@gmail.com -->
 1. Eric Cances <!-- cances@cermics.enpc.fr -->
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
-1. Eugene De Prince <!-- adeprince@fsu.edu -->
+1. Eugene De Prince <!-- adeprince@fsu.edu --> <!-- Recent Developments in Two-Component Equation-of-Motion Coupled-Cluster Theory -->
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Janus Eriksen <!-- janus@kemi.dtu.dk -->
 1. Fabian Faulstich <!-- faulsf@rpi.edu -->
