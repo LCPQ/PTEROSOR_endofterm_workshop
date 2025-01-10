@@ -48,7 +48,7 @@ draft: false
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Mauricio Rodríguez-Mayorga <!-- marm3.14@gmail.com -->
 1. Gustavo Scuseria <!-- guscus@rice.edu --> 
-1. Bruno Senjean <!-- bsenjean@gmail.com -->
+1. Bruno Senjean <!-- bsenjean@gmail.com --> <!-- Transformation-free generation of a quasidiabatic representation, a quantum computing inspired approach -->
 1. James Shee <!-- js327@rice.edu -->
 1. Stella Stopkowicz <!-- stella.stopkowicz@uni-saarland.de -->
 1. Svala Sverrisdóttir <!-- svala@math.berkeley.edu -->
