@@ -38,7 +38,7 @@ draft: false
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Poster      |
 |               |                 | 
-| 19:30 - 22:30 | [Dinner]()        | 
+| 19:30 - 22:30 | [Dinner](https://www.samsara.fr)        | 
 |               |                 | 
 
 # Wednesday, April 9, 2025
