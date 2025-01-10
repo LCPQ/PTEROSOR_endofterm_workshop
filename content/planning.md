@@ -26,7 +26,7 @@ draft: false
 |               |                 |
 | **SESSION 2** | Chair: Timothy Berkelbach |
 |               |                 |
-| 14:00 - 14:30 | Trygve Helgaker |
+| 14:00 - 14:30 | Trygve Helgaker -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
 | 14:30 - 15:00 | Fabian Faulstich |
 | 15:00 - 15:30 | Mathieu Lewin |
 |               |                 | 
@@ -34,7 +34,7 @@ draft: false
 |               |                 | 
 | 16:00 - 16:30 | Eric Cances -- Direct optimization methods for CASSCF ground and excited states |
 | 16:30 - 17.00 | Andre Laestadius |
-| 17:00 - 17.30 | Filippo Lippaniri -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
+| 17:00 - 17.30 | Filippo Lippaniri |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Poster      |
 |               |                 | 
