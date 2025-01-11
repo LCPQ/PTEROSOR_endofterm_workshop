@@ -11,9 +11,9 @@ draft: false
 1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
-1. Eric Cances <!-- cances@cermics.enpc.fr --> <!-- Direct optimization methods for CASSCF ground and excited states -->
+1. Eric Cances <!-- cances@cermics.enpc.fr --> 
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
-1. Eugene De Prince <!-- adeprince@fsu.edu --> <!-- Recent Developments in Two-Component Equation-of-Motion Coupled-Cluster Theory -->
+1. Eugene De Prince <!-- adeprince@fsu.edu --> 
 1. Thomas Duget <!-- thomas.duguet@cea.fr -->
 1. Janus Eriksen <!-- janus@kemi.dtu.dk -->
 1. Fabian Faulstich <!-- faulsf@rpi.edu -->
@@ -23,8 +23,8 @@ draft: false
 1. Dorothea Golze <!-- dorothea.golze@tu-dresden.de -->
 1. Jonas Greiner <!-- jongr@kemi.dtu.dk -->
 1. Andreas Gruneis <!-- andreas.grueneis@tuwien.ac.at -->
-1. Trygve Helgaker <!-- t.u.helgaker@kjemi.uio.no --> <!-- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory -->
-1. Thomas Henderson <!-- th4@rice.edu --> <!-- Random Phase Approximation on a Symmetry-Projected Mean-Field -->
+1. Trygve Helgaker <!-- t.u.helgaker@kjemi.uio.no --> 
+1. Thomas Henderson <!-- th4@rice.edu --> 
 1. Ida-Marie Høyvik <!-- ida-marie.hoyvik@ntnu.no -->
 1. Jannis Kockläuner <!-- jannis.kocklaeuner@tu-dresden.de -->
 1. Marios-Petros Kitsaras <!-- kitsaras@irsamc.ups-tlse.fr -->
@@ -48,7 +48,7 @@ draft: false
 1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Mauricio Rodríguez-Mayorga <!-- marm3.14@gmail.com -->
 1. Gustavo Scuseria <!-- guscus@rice.edu --> 
-1. Bruno Senjean <!-- bsenjean@gmail.com --> <!-- Transformation-free generation of a quasidiabatic representation, a quantum computing inspired approach -->
+1. Bruno Senjean <!-- bsenjean@gmail.com --> 
 1. James Shee <!-- js327@rice.edu -->
 1. Stella Stopkowicz <!-- stella.stopkowicz@uni-saarland.de -->
 1. Svala Sverrisdóttir <!-- svala@math.berkeley.edu -->
