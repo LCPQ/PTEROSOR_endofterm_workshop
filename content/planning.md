@@ -64,7 +64,7 @@ draft: false
 | **SESSION 4** | Chair: Mauricio Rodriguez-Marjorga |
 |               |                 |
 | 14:00 - 14:30 | Dorothea Golze |
-| 14:30 - 15:00 | Johannes Toelle |
+| 14:30 - 15:00 | Johannes Toelle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
 | 15:00 - 15:30 | Vojtečh Vlcěk |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
