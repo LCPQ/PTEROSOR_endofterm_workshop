@@ -20,7 +20,7 @@ draft: false
 |               |                 | 
 | 11:00 - 11:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field |
 | 11:30 - 12:00 | Thomas Duget |
-| 12:00 - 12:30 | James Shee |
+| 12:00 - 12:30 | Janus Eriksen -- Third-Generation Many-Body Expanded Full Configuration Interaction Theory |
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Poster    |
 |               |                 |
@@ -106,7 +106,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Janus Eriksen |
+| 16:00 - 16:30 | James Shee |
 | 16:30 - 17.00 | Susi Lehtola |
 | 17:00 - 17.30 | Nick Mayhall |
 |               |                 | 
