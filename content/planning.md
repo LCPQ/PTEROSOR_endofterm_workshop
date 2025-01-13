@@ -22,9 +22,9 @@ draft: false
 | 11:30 - 12:00 | Thomas Duget |
 | 12:00 - 12:30 | Janus Eriksen -- Third-Generation Many-Body Expanded Full Configuration Interaction Theory |
 |               |                 |
-| 12:30 - 14:00 | Lunch break & Poster    |
+| 12:30 - 14:00 | Lunch break & Posters    |
 |               |                 |
-| **SESSION 2** | Chair: Timothy Berkelbach |
+| **SESSION 2** | Chair: Timothy Berkelbach? |
 |               |                 |
 | 14:00 - 14:30 | Trygve Helgaker -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
 | 14:30 - 15:00 | Fabian Faulstich |
@@ -36,7 +36,7 @@ draft: false
 | 16:30 - 17.00 | Andre Laestadius |
 | 17:00 - 17.30 | Filippo Lippaniri |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail & Poster      |
+| 17:30 - 18:30 | Cocktail & Posters      |
 |               |                 | 
 | 19:30 - 22:30 | [Dinner](https://www.samsara.fr)        | 
 |               |                 | 
@@ -59,7 +59,7 @@ draft: false
 | 11:30 - 12:00 | Michal Lesiuk |
 | 12:00 - 12:30 | Eugene De Prince -- Recent Developments in Two-Component Equation-of-Motion Coupled-Cluster Theory |
 |               |                 |
-| 12:30 - 14:00 | Lunch break & Poster |
+| 12:30 - 14:00 | Lunch break & Posters |
 |               |                 |
 | **SESSION 4** | Chair: Mauricio Rodriguez-Marjorga |
 |               |                 |
@@ -73,7 +73,7 @@ draft: false
 | 16:30 - 17.00 | Dominika Zgid   |
 | 17:00 - 17.30 | Arno Forster    |
 |               |                 | 
-| 17:30 - 18:30 | Cocktail & Poster |
+| 17:30 - 18:30 | Cocktail & Posters |
 |               |                 | 
 | 19:30 - 22:30 | [Dinner](https://brasserielesbeauxarts.fr) | 
 |               |                 | 
@@ -96,7 +96,7 @@ draft: false
 | 11:30 - 12:00 | Chenyang Li |
 | 12:00 - 12:30 | Hugh Burton |
 |               |                 |
-| 12:30 - 14:00 | Lunch break & Poster    |
+| 12:30 - 14:00 | Lunch break & Posters    |
 |               |                 |
 | **SESSION 6** | Chair: Hugh Burton |
 |               |                 |
