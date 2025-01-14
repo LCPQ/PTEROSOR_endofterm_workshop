@@ -3,5 +3,6 @@ title: "Posters"
 draft: false
 ---
 
-Piotr Michalak -- Rank-reduced equation-of-motion coupled cluster methods with triple excitations
+### Piotr Michalak (Warsaw U, Poland) 
+**Rank-reduced equation-of-motion coupled cluster methods with triple excitations**
 
