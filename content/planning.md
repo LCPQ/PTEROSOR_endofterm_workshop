@@ -106,7 +106,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | James Shee |
+| 16:00 - 16:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo |
 | 16:30 - 17.00 | Susi Lehtola |
 | 17:00 - 17.30 | Nick Mayhall |
 |               |                 | 
