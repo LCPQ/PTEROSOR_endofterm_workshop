@@ -27,7 +27,7 @@ draft: false
 | **SESSION 2** | Chair: Timothy Berkelbach? |
 |               |                 |
 | 14:00 - 14:30 | Trygve Helgaker -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
-| 14:30 - 15:00 | Fabian Faulstich |
+| 14:30 - 15:00 | Fabian Faulstich -- Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry |
 | 15:00 - 15:30 | Mathieu Lewin |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
