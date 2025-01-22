@@ -94,7 +94,7 @@ draft: false
 |               |                 | 
 | 11:00 - 11:30 | Elisa Rebolini |
 | 11:30 - 12:00 | Chenyang Li |
-| 12:00 - 12:30 | Hugh Burton |
+| 12:00 - 12:30 | Hugh Burton -- Mapping the energy landscape of state-specific excitations |
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters    |
 |               |                 |
