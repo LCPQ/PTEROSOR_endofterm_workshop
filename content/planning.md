@@ -63,7 +63,7 @@ draft: false
 |               |                 |
 | **SESSION 4** | Chair: Mauricio Rodriguez-Marjorga |
 |               |                 |
-| 14:00 - 14:30 | Dorothea Golze |
+| 14:00 - 14:30 | Dorothea Golze -- Prediction of core and valence excitations in complex materials with GW and beyond |
 | 14:30 - 15:00 | Johannes Toelle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
 | 15:00 - 15:30 | Vojtečh Vlcěk |
 |               |                 | 
