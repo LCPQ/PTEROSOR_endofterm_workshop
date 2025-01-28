@@ -34,7 +34,7 @@ draft: false
 |               |                 | 
 | 16:00 - 16:30 | Eric Cances -- Direct optimization methods for CASSCF ground and excited states |
 | 16:30 - 17.00 | Andre Laestadius |
-| 17:00 - 17.30 | Filippo Lippaniri |
+| 17:00 - 17.30 | Filippo Lippaniri -- An efficient and robust implementation of CASSCF linear response theory |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Posters      |
 |               |                 | 
