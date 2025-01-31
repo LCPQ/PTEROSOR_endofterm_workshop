@@ -33,7 +33,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | Eric Cances -- Direct optimization methods for CASSCF ground and excited states |
-| 16:30 - 17.00 | Andre Laestadius |
+| 16:30 - 17.00 | Andre Laestadius -- Analysis of coupled-cluster theory for ground- and excited states using homotopy |
 | 17:00 - 17.30 | Filippo Lippaniri -- An efficient and robust implementation of CASSCF linear response theory |
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Posters      |
