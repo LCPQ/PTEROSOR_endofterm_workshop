@@ -18,7 +18,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field |
+| 11:00 - 11:30 | Thomas Duguet -- Ab initio description of collective excitations in doubly open-shell nuclei |
 | 11:30 - 12:00 | Elisa Rebolini  |
 | 12:00 - 12:30 | Janus Eriksen -- Third-Generation Many-Body Expanded Full Configuration Interaction Theory |
 |               |                 |
@@ -92,7 +92,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Thomas Duguet   |
+| 11:00 - 11:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field |
 | 11:30 - 12:00 | Chenyang Li |
 | 12:00 - 12:30 | Hugh Burton -- Mapping the energy landscape of state-specific excitations |
 |               |                 |
