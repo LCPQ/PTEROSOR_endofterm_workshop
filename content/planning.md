@@ -93,7 +93,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
 | 11:00 - 11:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field |
-| 11:30 - 12:00 | Chenyang Li |
+| 11:30 - 12:00 | Chenyang Li -- Driven similarity renormalization group with a large active space |
 | 12:00 - 12:30 | Hugh Burton -- Mapping the energy landscape of state-specific excitations |
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters    |
