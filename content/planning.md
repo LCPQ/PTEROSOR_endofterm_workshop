@@ -102,7 +102,7 @@ draft: false
 |               |                 |
 | 14:00 - 14:30 | Jannes Nys |
 | 14:30 - 15:00 | Bruno Senjean -- Transformation-free generation of a quasidiabatic representation, a quantum computing inspired approach |
-| 15:00 - 15:30 | Saad Yalouz |
+| 15:00 - 15:30 | Saad Yalouz -- Quantum Computing for Polaritonic Chemistry |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
