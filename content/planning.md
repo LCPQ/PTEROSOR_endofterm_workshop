@@ -50,7 +50,7 @@ draft: false
 |               |                 |
 | **SESSION 3** | Chair: Petros Kitsaras |
 |               |                 |
-|  9:30 - 10:00 | Stella Stopkowicz |
+|  9:30 - 10:00 | Stella Stopkowicz -- High-accuracy methods for atoms and molecules in strong magnet fields and applications to white dwarf spectra |
 | 10:00 - 10:30 | Andreas Gruneis |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
