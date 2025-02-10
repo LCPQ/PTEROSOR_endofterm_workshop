@@ -1,9 +1,11 @@
-- Eugene might come with his family (+3) -> check hotel
+- Eugene might come with his family (+3) -> took an airBnB -> 1 room available
 - Vojtech is coming with his dad -> check hotel
 - Dorothea might come with her family -> maybe transfer bookint to PhD student Jannis Kockläuner
 - Room for Enzo and Raul and Manu (if possible)
 - Janus is leaving Thursday morning
 - Elisa does not need hotel and is leaving Thursday morning
+- Saad no restaurant on Wednesday
+- Abdallah is not coming
 
 - Hugh: no seafood/fish/mushrooms
 - Michal: vegetarian
