@@ -19,7 +19,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
 | 11:00 - 11:30 | Thomas Duguet -- Ab initio description of collective excitations in doubly open-shell nuclei |
-| 11:30 - 12:00 | Elisa Rebolini  |
+| 11:30 - 12:00 | Elisa Rebolini -- Ab initio calculation of magnetic couplings in strongly correlated systems |
 | 12:00 - 12:30 | Janus Eriksen -- Third-Generation Many-Body Expanded Full Configuration Interaction Theory |
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters    |
@@ -51,7 +51,7 @@ draft: false
 | **SESSION 3** | Chair: Petros Kitsaras |
 |               |                 |
 |  9:30 - 10:00 | Stella Stopkowicz -- High-accuracy methods for atoms and molecules in strong magnet fields and applications to white dwarf spectra |
-| 10:00 - 10:30 | Andreas Gruneis |
+| 10:00 - 10:30 | Andreas Gruneis -- Exploring equation-of-motion coupled-cluster theory for solids |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
@@ -108,7 +108,7 @@ draft: false
 |               |                 | 
 | 16:00 - 16:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo |
 | 16:30 - 17.00 | Susi Lehtola |
-| 17:00 - 17.30 | Nick Mayhall |
+| 17:00 - 17.30 | Nick Mayhall -- Computing exchange coupling constants in organometallic complexes with Tensor Product Selected CI |
 |               |                 | 
 | 17:30 - 18:30 | Good bye Cocktail |
 |               |                 |
