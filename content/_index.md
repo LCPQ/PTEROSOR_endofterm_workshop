@@ -45,7 +45,7 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Chenyang Li (Beijing Normal U, China)
 - Filippo Lipparini (U of Pisa, Italy)
 - Nick Mayhall (Virginia Tech, US)
-- Jannes Nys (EPFL, Switzerland)
+- Jannes Nys (ETH Zurich, Switzerland)
 - Elisa Rebolini (Institut Laue Langevin, France)
 - Gustavo Scuseria (Rice U, US)
 - Bruno Senjean (U of Montpellier, France)
