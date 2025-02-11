@@ -14,7 +14,7 @@ draft: false
 | **SESSION 1** | Chair: Pierre-Francois Loos |
 |               |                 |
 |  9:30 - 10:00 | Gustavo Scuseria |
-| 10:00 - 10:30 | Ida-Marie Høyvik |
+| 10:00 - 10:30 | Ida-Marie Høyvik -- Charge localized electronic wave functions for ground and excited states |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
