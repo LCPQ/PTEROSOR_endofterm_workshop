@@ -100,7 +100,7 @@ draft: false
 |               |                 |
 | **SESSION 6** | Chair: Hugh Burton |
 |               |                 |
-| 14:00 - 14:30 | Jannes Nys |
+| 14:00 - 14:30 | Jannes Nys -- Neural representations of strongly correlated electrons in and out of equilibrium |
 | 14:30 - 15:00 | Bruno Senjean -- Transformation-free generation of a quasidiabatic representation, a quantum computing inspired approach |
 | 15:00 - 15:30 | Saad Yalouz -- Quantum Computing for Polaritonic Chemistry |
 |               |                 | 
