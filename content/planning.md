@@ -69,7 +69,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | Fabien Bruneval |
+| 16:00 - 16:30 | Fabien Bruneval -- Fully dynamic G3W2 self-energy |
 | 16:30 - 17.00 | Dominika Zgid   |
 | 17:00 - 17.30 | Arno Forster -- Beyond quasi-particle self-consistent GW for molecules with vertex corrections  |
 |               |                 | 
