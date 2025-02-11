@@ -88,7 +88,7 @@ draft: false
 | **SESSION 5** | Chair: Antoine Marie |
 |               |                 |
 |  9:30 - 10:00 | Sara Giarrusso -- Applications of the exact factorization in density-functional theory |
-| 10:00 - 10:30 | Stefan Vuckovic |
+| 10:00 - 10:30 | Stefan Vuckovic -- Will Machine Learning Deliver Useful Density Functionals? |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
