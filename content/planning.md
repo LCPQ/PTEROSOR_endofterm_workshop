@@ -24,7 +24,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters    |
 |               |                 |
-| **SESSION 2** | Chair: Timothy Berkelbach? |
+| **SESSION 2** | Chair:  |
 |               |                 |
 | 14:00 - 14:30 | Trygve Helgaker -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
 | 14:30 - 15:00 | Fabian Faulstich -- Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry |
@@ -107,7 +107,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
 | 16:00 - 16:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo |
-| 16:30 - 17.00 | Susi Lehtola |
+| 16:30 - 17.00 | Susi Lehtola -- Atoms in a box: the way to more accurate orbital discretizations |
 | 17:00 - 17.30 | Nick Mayhall -- Computing exchange coupling constants in organometallic complexes with Tensor Product Selected CI |
 |               |                 | 
 | 17:30 - 18:30 | Good bye Cocktail |
