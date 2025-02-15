@@ -1,6 +1,6 @@
-- Eugene might come with his family (+3) -> took an airBnB -> 1 room available
+- Eugene comes with his family (+3) -> took an airBnB -> 1 room available
 - Vojtech is coming with his dad -> check hotel
-- Dorothea might come with her family -> maybe transfer bookint to PhD student Jannis Kockläuner
+- Dorothea comes with her family -> transfer bookint to PhD student Jannis Kockläuner
 - Room for Enzo and Raul and Manu (if possible)
 - Janus is leaving Thursday morning
 - Elisa does not need hotel and is leaving Thursday morning
