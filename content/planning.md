@@ -65,7 +65,7 @@ draft: false
 |               |                 |
 | 14:00 - 14:30 | Dorothea Golze -- Prediction of core and valence excitations in complex materials with GW and beyond |
 | 14:30 - 15:00 | Johannes Toelle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
-| 15:00 - 15:30 | Vojtečh Vlcěk |
+| 15:00 - 15:30 | Vojtečh Vlcěk -- First-Principles Simulations of  Ultrafast Phenomena in Materials |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
