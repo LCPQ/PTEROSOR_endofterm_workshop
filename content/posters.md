@@ -9,3 +9,5 @@ draft: false
 ### Thomas Plaikner (TU Wien, Austria) 
 **Time-dependent equation-of-motion coupled-cluster theory for molecules and solids**
 
+### Nicholas Lee (Oxford, UK)
+**Developments in Generalised Normal Ordered Coupled Cluster theory**
