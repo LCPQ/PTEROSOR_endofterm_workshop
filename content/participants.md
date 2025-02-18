@@ -6,7 +6,6 @@ draft: false
 # List of participants
 
 1. Josep Alberola <!-- albojo@alumni.uv.es -->
-1. Timothy Berkelbach <!-- tcb2112@columbia.edu -->
 1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
