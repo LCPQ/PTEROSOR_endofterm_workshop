@@ -13,8 +13,8 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Pierre-Francois Loos |
 |               |                 |
-|  9:30 - 10:00 |   |
-| 10:00 - 10:30 | Ida-Marie Høyvik -- Charge localized electronic wave functions for ground and excited states |
+|  9:30 - 10:00 | Ida-Marie Høyvik -- Charge localized electronic wave functions for ground and excited states |
+| 10:00 - 10:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo | 
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
@@ -55,7 +55,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 |  |
+| 11:00 - 11:30 | Vojtečh Vlcěk -- First-Principles Simulations of  Ultrafast Phenomena in Materials |
 | 11:30 - 12:00 | Michal Lesiuk -- Rank-reduced coupled cluster theory for ground and excited states |
 | 12:00 - 12:30 | Eugene De Prince -- Recent Developments in Two-Component Equation-of-Motion Coupled-Cluster Theory |
 |               |                 |
@@ -65,7 +65,7 @@ draft: false
 |               |                 |
 | 14:00 - 14:30 | Dorothea Golze -- Prediction of core and valence excitations in complex materials with GW and beyond |
 | 14:30 - 15:00 | Johannes Toelle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
-| 15:00 - 15:30 | Vojtečh Vlcěk -- First-Principles Simulations of  Ultrafast Phenomena in Materials |
+| 15:00 - 15:30 |  |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
@@ -106,7 +106,7 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo |
+| 16:00 - 16:30 |  |
 | 16:30 - 17.00 | Susi Lehtola -- Atoms in a box: the way to more accurate orbital discretizations |
 | 17:00 - 17.30 | Nick Mayhall -- Computing exchange coupling constants in organometallic complexes with Tensor Product Selected CI |
 |               |                 | 
