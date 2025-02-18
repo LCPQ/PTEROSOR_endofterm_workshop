@@ -23,7 +23,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 
 ## CONFIRMED INVITED SPEAKERS
 
-- Timothy Berkelbach (Columbia U, US)
 - Fabien Bruneval (CEA, France)
 - Hugh Burton (Cambridge, UK)
 - Eric Cances (Ecole des Ponts ParisTech, France)
