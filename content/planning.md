@@ -55,7 +55,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Timothy Berkelbach |
+| 11:00 - 11:30 |  |
 | 11:30 - 12:00 | Michal Lesiuk -- Rank-reduced coupled cluster theory for ground and excited states |
 | 12:00 - 12:30 | Eugene De Prince -- Recent Developments in Two-Component Equation-of-Motion Coupled-Cluster Theory |
 |               |                 |
