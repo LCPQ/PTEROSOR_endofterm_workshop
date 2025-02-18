@@ -14,7 +14,7 @@ draft: false
 | **SESSION 1** | Chair: Pierre-Francois Loos |
 |               |                 |
 |  9:30 - 10:00 | Ida-Marie Høyvik -- Charge localized electronic wave functions for ground and excited states |
-| 10:00 - 10:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo | 
+| 10:00 - 10:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field | 
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
@@ -92,7 +92,7 @@ draft: false
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
-| 11:00 - 11:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field |
+| 11:00 - 11:30 | James Shee -- Modeling excited electronic states with phaseless auxiliary-field quantum Monte Carlo | 
 | 11:30 - 12:00 | Chenyang Li -- Driven similarity renormalization group with a large active space |
 | 12:00 - 12:30 | Hugh Burton -- Mapping the energy landscape of state-specific excitations |
 |               |                 |
