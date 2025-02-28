@@ -14,7 +14,7 @@ draft: false
 | **SESSION 1** | Chair: Pierre-Francois Loos |
 |               |                 |
 |  9:30 - 10:00 | Ida-Marie Høyvik -- Charge localized electronic wave functions for ground and excited states |
-| 10:00 - 10:30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field | 
+| 10:00 - 10:30 | Filippo Lippaniri -- An efficient and robust implementation of CASSCF linear response theory |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
@@ -34,7 +34,7 @@ draft: false
 |               |                 | 
 | 16:00 - 16:30 | Eric Cances -- Direct optimization methods for CASSCF ground and excited states |
 | 16:30 - 17.00 | Andre Laestadius -- Analysis of coupled-cluster theory for ground- and excited states using homotopy |
-| 17:00 - 17.30 | Filippo Lippaniri -- An efficient and robust implementation of CASSCF linear response theory |
+| 17:00 - 17.30 | Thomas Henderson -- Random Phase Approximation on a Symmetry-Projected Mean-Field |  
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Posters      |
 |               |                 | 
