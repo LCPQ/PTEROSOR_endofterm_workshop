@@ -46,7 +46,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Nick Mayhall (Virginia Tech, US)
 - Jannes Nys (ETH Zurich, Switzerland)
 - Elisa Rebolini (Institut Laue Langevin, France)
-- Gustavo Scuseria (Rice U, US)
 - Bruno Senjean (U of Montpellier, France)
 - James Shee (Rice U, US)
 - Stella Stopkowicz (U of Saarlandes, Germany)
