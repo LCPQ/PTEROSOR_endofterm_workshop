@@ -5,6 +5,7 @@ draft: false
 
 ## NEWS
 
+* **Mar 2025:** A workshop is one month away. Everything's looking good. See you soon in Toulouse.
 * **Feb 2025:** A preliminary version of the program is now available (still subject to change).
 * **Sep 2024:** The list of invited speakers is complete.
 * **Apr 2024:** The workshop's website is officially up and running!
