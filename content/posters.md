@@ -28,7 +28,7 @@ draft: false
 **TBA**
 
 ### Raul Quintero-Monsebaiz
-**TBA**
+**Koopmans' Improvement of vdW Density Functionals for Periodic Systems**
 
 ### Enzo Monino (Heyrovsky Institute, Czechia)
 **TBA**
