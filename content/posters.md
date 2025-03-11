@@ -27,7 +27,7 @@ draft: false
 ### Josep Alberola (U of Toulouse, France)
 **TBA**
 
-### Raul Quintero-Monsebaiz
+### Raul Quintero-Monsebaiz (Chalmers, Sweden)
 **Koopmans' Improvement of vdW Density Functionals for Periodic Systems**
 
 ### Enzo Monino (Heyrovsky Institute, Czechia)
