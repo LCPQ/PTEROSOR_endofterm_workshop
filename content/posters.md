@@ -31,7 +31,7 @@ draft: false
 **Koopmans' Improvement of vdW Density Functionals for Periodic Systems**
 
 ### Enzo Monino (Heyrovsky Institute, Czechia)
-**TBA**
+**Projection-based DMRG-in-DFT embedding: non-additive exchange-correlation corrections by adiabatic connection**
 
 ### Tommaso Nottoli (U of Pisa, Italy)
 **TBA**
