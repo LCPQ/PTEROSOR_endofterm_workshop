@@ -34,7 +34,7 @@ draft: false
 **Projection-based DMRG-in-DFT embedding: non-additive exchange-correlation corrections by adiabatic connection**
 
 ### Tommaso Nottoli (U of Pisa, Italy)
-**TBA**
+**A Polarizable CASSCF/MM Approach for Structures and Excitation Energies**
 
 ### Stavros Bofos (CEA Saclay, France)
 **TBA**
