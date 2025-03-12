@@ -36,9 +36,6 @@ draft: false
 ### Tommaso Nottoli (U of Pisa, Italy)
 **A Polarizable CASSCF/MM Approach for Structures and Excitation Energies**
 
-### Stavros Bofos (CEA Saclay, France)
-**TBA**
-
 ### Jonas Greiner (DTU, Denmark)
 **TBA**
 
