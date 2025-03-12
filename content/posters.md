@@ -38,6 +38,3 @@ draft: false
 
 ### Jonas Greiner (DTU, Denmark)
 **TBA**
-
-### Svala Sverrisdóttir (UC, Berkeley)
-**TBA**
