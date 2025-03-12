@@ -6,8 +6,8 @@ draft: false
 # List of participants
 
 1. Josep Alberola <!-- albojo@alumni.uv.es -->
-1. Stavros Bofos <!-- stavros.bofos@cea.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
+1. Loris Burth <!-- loris.burth@univ-tlse3.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
 1. Eric Cances <!-- cances@cermics.enpc.fr --> 
 1. Yann Damour <!-- ydamour@irsamc.ups-tlse.fr -->
