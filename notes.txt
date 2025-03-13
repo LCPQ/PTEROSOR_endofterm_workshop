@@ -1,15 +1,16 @@
 - Eugene comes with his family (+3) -> took an airBnB -> 1 room available
 - Vojtech is coming with his dad -> check hotel
-- Dorothea comes with her family -> transfer bookint to PhD student Jannis Kockläuner
+- Dorothea comes with her family -> transfer booking to PhD student Jannis Kockläuner
 - Room for Enzo and Raul and Manu 
 - Janus is leaving Thursday morning
 - Elisa does not need hotel and is leaving Thursday morning
-- Saad and Michel no restaurant on Wednesday
 - Abdallah, Tim and Gus are not coming
 
+* Restaurants
 - Hugh: no seafood/fish/mushrooms
 - Vegetarian: Loris, Jonas, Michal, Antoine, Me.
-- 
+- Saad and Michel no restaurant on Wednesday
+- Eugene + 3 for dinners
 
 - possible talk backup: Manu, Antoine, Petros(~)
 
