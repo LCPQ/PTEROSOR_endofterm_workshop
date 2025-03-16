@@ -37,4 +37,4 @@ draft: false
 **A Polarizable CASSCF/MM Approach for Structures and Excitation Energies**
 
 ### Jonas Greiner (DTU, Denmark)
-**TBA**
+**A Reusable Library for Second-Order, Trust-Region Orbital Optimization**
