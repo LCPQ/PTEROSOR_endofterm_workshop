@@ -42,7 +42,6 @@ draft: false
 1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
 1. Thomas Plaikner <!-- thomas.plaikner@tuwien.ac.at -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
-1. Elisa Rebolini <!-- rebolini@ill.fr -->
 1. Mauricio Rodríguez-Mayorga <!-- marm3.14@gmail.com -->
 1. Bruno Senjean <!-- bsenjean@gmail.com --> 
 1. James Shee <!-- js327@rice.edu -->

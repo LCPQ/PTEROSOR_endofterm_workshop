@@ -19,16 +19,16 @@ draft: false
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
 | 11:00 - 11:30 | Thomas Duguet -- Ab initio description of collective excitations in doubly open-shell nuclei |
-| 11:30 - 12:00 | Elisa Rebolini -- Ab initio calculation of magnetic couplings in strongly correlated systems |
-| 12:00 - 12:30 | Janus Eriksen -- Third-Generation Many-Body Expanded Full Configuration Interaction Theory |
+| 11:30 - 12:00 | Janus Eriksen -- Third-Generation Many-Body Expanded Full Configuration Interaction Theory |
+| 12:00 - 12:30 | Trygve Helgaker -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters    |
 |               |                 |
 | **SESSION 2** | Chair:  |
 |               |                 |
-| 14:00 - 14:30 | Trygve Helgaker -- A variational reformulation of excitation energies and other molecular properties in electronic-structure theory |
-| 14:30 - 15:00 | Fabian Faulstich -- Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry |
-| 15:00 - 15:30 | Mathieu Lewin -- How to define and find excited states in nonlinear models |
+| 14:00 - 14:30 | Fabian Faulstich -- Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry |
+| 14:30 - 15:00 | Mathieu Lewin -- How to define and find excited states in nonlinear models |
+| 15:00 - 15:30 |                 |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
@@ -106,9 +106,9 @@ draft: false
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
 |               |                 | 
-| 16:00 - 16:30 |  |
-| 16:30 - 17.00 | Susi Lehtola -- Atoms in a box: the way to more accurate orbital discretizations |
-| 17:00 - 17.30 | Nick Mayhall -- Computing exchange coupling constants in organometallic complexes with Tensor Product Selected CI |
+| 16:00 - 16:30 | Susi Lehtola -- Atoms in a box: the way to more accurate orbital discretizations |
+| 16:30 - 17.00 | Nick Mayhall -- Computing exchange coupling constants in organometallic complexes with Tensor Product Selected CI |
+| 17:00 - 17.30 |                 |
 |               |                 | 
 | 17:30 - 18:30 | Good bye Cocktail |
 |               |                 |
