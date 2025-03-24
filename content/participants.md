@@ -40,6 +40,7 @@ draft: false
 1. Enzo Monino <!-- monino.enzo@gmail.com -->
 1. Jannes Nys <!-- jannys@ethz.ch -->
 1. Tommaso Nottoli <!-- tommaso.nottoli@dcci.unipi.it -->
+1. Mattéo Peria <!-- matteo.peria@sorbonne-universite.fr -->
 1. Thomas Plaikner <!-- thomas.plaikner@tuwien.ac.at -->
 1. Raul Quintero-Monsebaiz <!-- raulmon88@gmail.com -->
 1. Mauricio Rodríguez-Mayorga <!-- marm3.14@gmail.com -->
@@ -52,7 +53,7 @@ draft: false
 1. Saad Yalouz <!-- yalouzsaad@gmail.com -->
 1. Dominika Zgid <!-- dominika.zgid@gmail.com -->
 
-# Local organisers 
+# Local organizers 
 
 The present workshop is organized by members of the [Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=en) (Toulouse, France) as part of the [ERC PTEROSOR](https://lcpq.github.io/PTEROSOR/) project:
 <br>
