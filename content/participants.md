@@ -5,7 +5,7 @@ draft: false
 
 # List of participants
 
-1. Josep Alberola <!-- albojo@alumni.uv.es -->
+1. Josep Alberola <!-- jalberola@irsamc.ups-tlse.fr -->
 1. Fabien Bruneval <!-- fabien.bruneval@cea.fr -->
 1. Loris Burth <!-- loris.burth@univ-tlse3.fr -->
 1. Hugh Burton <!-- hgaburton@gmail.com -->
