@@ -24,7 +24,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters    |
 |               |                 |
-| **SESSION 2** | Chair: Emmanuel Giner |
+| **SESSION 2** | Chair: Sara Giarrusso |
 |               |                 |
 | 14:00 - 14:30 | Fabian Faulstich -- Exploring Ground and Excited States Via Single Reference Coupled-Cluster Theory and Algebraic Geometry |
 | 14:30 - 15:00 | Mathieu Lewin -- How to define and find excited states in nonlinear models |
