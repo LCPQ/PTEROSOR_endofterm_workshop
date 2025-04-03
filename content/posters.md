@@ -22,7 +22,7 @@ draft: false
 **TBA**
 
 ### Antoine Marie (U of Toulouse, France)
-**TBA**
+**Bethe-Salpeter equation for the particle-particle propagator**
 
 ### Josep Alberola (U of Toulouse, France)
 **TBA**
