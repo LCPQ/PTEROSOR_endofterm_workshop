@@ -16,7 +16,7 @@ draft: false
 **Accurate Prediction of Core-Level Satellites in Large Molecules From Green's Function Theory**
 
 ### Marios Petros Kitsaras (U of Toulouse, France)
-**TBA**
+**Analytic G0W0 gradients: An IP/EA-EOM-λ-rCCD reformulation**
 
 ### Mauricio Rodriguez-Mayorga (U of Toulouse, France)
 **TBA**
