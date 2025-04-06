@@ -61,7 +61,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break & Posters |
 |               |                 |
-| **SESSION 4** | Chair: Mauricio Rodriguez-Marjorga |
+| **SESSION 4** | Chair: Antoine Marie |
 |               |                 |
 | 14:00 - 14:30 | Dorothea Golze -- Prediction of core and valence excitations in complex materials with GW and beyond |
 | 14:30 - 15:00 | Johannes Toelle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
@@ -85,10 +85,10 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 5** | Chair: Antoine Marie |
+| **SESSION 5** | Chair: Mauricio Rodriguez-Marjorga |
 |               |                 |
 |  9:30 - 10:00 | Sara Giarrusso -- Applications of the exact factorization in density-functional theory |
-| 10:00 - 10:30 | Stefan Vuckovic -- Will Machine Learning Deliver Useful Density Functionals? |
+| 10:00 - 10:30 | Antoine Marie -- Bethe-Salpeter equation for the particle-particle propagator |
 |               |                 | 
 | 10:30 - 11:00 | Coffee break    |
 |               |                 | 
