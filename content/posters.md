@@ -18,12 +18,6 @@ draft: false
 ### Marios Petros Kitsaras (U of Toulouse, France)
 **Analytic G0W0 gradients: An IP/EA-EOM-λ-rCCD reformulation**
 
-### Mauricio Rodriguez-Mayorga (U of Toulouse, France)
-**TBA**
-
-### Antoine Marie (U of Toulouse, France)
-**Bethe-Salpeter equation for the particle-particle propagator**
-
 ### Josep Alberola (U of Toulouse, France)
 **TBA**
 

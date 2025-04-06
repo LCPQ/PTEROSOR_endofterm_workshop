@@ -51,7 +51,6 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Stella Stopkowicz (U of Saarlandes, Germany)
 - Johannes Toelle (U of Muenster, Germany)
 - Vojtečh Vlcěk (UC Santa Barbara, US)
-- Stefan Vuckovic (U of Freiburg, Switzerland)
 - Saad Yalouz (U of Strasbourg, France)
 - Dominika Zgid (U of Michigan, US)
 
