@@ -18,9 +18,6 @@ draft: false
 ### Marios Petros Kitsaras (U of Toulouse, France)
 **Analytic G0W0 gradients: An IP/EA-EOM-λ-rCCD reformulation**
 
-### Josep Alberola (U of Toulouse, France)
-**TBA**
-
 ### Raul Quintero-Monsebaiz (Chalmers, Sweden)
 **Koopmans' Improvement of vdW Density Functionals for Periodic Systems**
 
