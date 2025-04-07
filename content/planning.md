@@ -11,7 +11,7 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 1** | Chair: Pierre-Francois Loos |
+| **SESSION 1** | Chair: Johannes Tölle |
 |               |                 |
 |  9:30 - 10:00 | Ida-Marie Høyvik -- Charge localized electronic wave functions for ground and excited states |
 | 10:00 - 10:30 | Filippo Lippaniri -- An efficient and robust implementation of CASSCF linear response theory |
@@ -64,7 +64,7 @@ draft: false
 | **SESSION 4** | Chair: Antoine Marie |
 |               |                 |
 | 14:00 - 14:30 | Dorothea Golze -- Prediction of core and valence excitations in complex materials with GW and beyond |
-| 14:30 - 15:00 | Johannes Toelle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
+| 14:30 - 15:00 | Johannes Tölle -- A Quantum Chemistry Perspective on Many-Body Electronic Structure Methods |
 | 15:00 - 15:30 |  |
 |               |                 | 
 | 15:30 - 16:00 | Coffee break    |
