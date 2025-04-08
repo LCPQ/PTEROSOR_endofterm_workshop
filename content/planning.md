@@ -38,7 +38,7 @@ draft: false
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Posters      |
 |               |                 | 
-| 20:00 - 22:30 | [Dinner](https://www.samsara.fr)        | 
+| 20:00 - 23:59 | [Dinner](https://www.samsara.fr)        | 
 |               |                 | 
 
 # Wednesday, April 9, 2025
@@ -75,7 +75,7 @@ draft: false
 |               |                 | 
 | 17:30 - 18:30 | Cocktail & Posters |
 |               |                 | 
-| 20:00 - 22:30 | [Dinner](https://brasserielesbeauxarts.fr) | 
+| 20:00 - 23:00 | [Dinner](https://brasserielesbeauxarts.fr) | 
 |               |                 | 
 
 # Thursday, April 10, 2025
