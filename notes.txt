@@ -1,12 +1,8 @@
 * Restaurants
 - Hugh+Anthony: no seafood/fish/mushrooms
 - Vegetarian (5): Loris, Jonas, Michal, Antoine, Me.
-- Saad and Michel no restaurant on Wednesday
-- Mau no restaurant on Wed and Thur
-- Stefan is out
+- Stefan, Saad, Thomas and Michel no restaurant on Wednesday
 - Eugene + 3 for dinners
 - Stella + 1 for dinners
 - Fabris + 1 for dinners
-
-- possible talk backup: Manu, Petros(~)
-
+- Vojtech + 1 for dinner on Wed
