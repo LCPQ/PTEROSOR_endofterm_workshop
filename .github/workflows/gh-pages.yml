@@ -16,10 +16,12 @@ jobs:
         run: sudo apt update
 
       - name: install dependencies
-        run: sudo apt install snap
+        run: sudo apt install wget
 
       - name: install hugo
-        run: sudo snap install hugo --channel=extended
+        run: |
+             wget https://github.com/gohugoio/hugo/releases/download/v0.125.0/hugo_extended_0.125.0_linux-amd64.deb
+             sudo apt install ./hugo_extended_0.125.0_linux-amd64.deb
 
       - name: install theme
         run: git submodule update --init --recursive
@@ -35,6 +37,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-
-
-
