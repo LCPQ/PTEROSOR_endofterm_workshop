@@ -55,3 +55,17 @@ under the European Union's Horizon 2020 research and innovation programme (Grant
 - Saad Yalouz (U of Strasbourg, France)
 - Dominika Zgid (U of Michigan, US)
 
+## SOME PICTURES
+<img src="/img/public1.jpg" width="600">
+<img src="/img/public2.jpg" width="600">
+<img src="/img/peniche1.jpg" width="600">
+<img src="/img/peniche2.jpg" width="600">
+<img src="/img/peniche3.jpg" width="600">
+<img src="/img/resto1.jpg" width="600">
+<img src="/img/resto2.jpg" width="600">
+<img src="/img/resto3.jpg" width="600">
+<img src="/img/resto4.jpg" width="600">
+<img src="/img/resto5.jpg" width="600">
+<img src="/img/resto6.jpg" width="600">
+<img src="/img/resto7.jpg" width="600">
+
