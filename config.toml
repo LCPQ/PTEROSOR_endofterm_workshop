@@ -10,7 +10,7 @@ title = "2nd WORKSHOP ON EXCITED-STATE METHODS (Toulouse, 8-10 Apr 2025)"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/Toulouse.jpg"
+  src = "img/conf.jpg"
   desc = "2nd WORKSHOP ON EXCITED-STATE METHODS"
 
 [markup]
